@@ -1,5 +1,51 @@
 ---
-layout: home
-# articles:
-#   excerpt_type: html
+layout: page
+permalink: /
+header: false
 ---
+
+<style>
+  .landing-center {
+    min-height: 80vh;
+    /* full viewport height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* vertical centering */
+    align-items: center;
+    /* horizontal centering */
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  .flag-link {
+    color: transparent !important;
+  }
+
+  .flag-link:hover {
+    color: transparent !important;
+  }
+</style>
+
+<div class="landing-center">
+
+
+  <img src="/assets/images/banner/rect_transp_400_cropped.png" alt="Hero Banner"
+    style="width: 100%; height: auto; max-width: 600px; margin-top: 2rem;" />
+
+
+  <p class="mb-4" style="font-size: 1.2rem;">Online documentation and tools for rally recce experts.</p>
+
+
+  <p>
+    <a href="/en/home/" class="flag-link">
+      <img src="/assets/images/flags/gb.svg" alt="English" style="height: 60px; margin: 0 1rem;" />
+    </a>
+    <a href="/fr/home/" class="flag-link">
+      <img src="/assets/images/flags/fr.svg" alt="Français" style="height: 60px; margin: 0 1rem;" />
+    </a>
+  </p>
+
+
+</div>
