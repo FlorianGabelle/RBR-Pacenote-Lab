@@ -1,0 +1,23 @@
+<div class="cell cell--12 cell--md-6 cell--lg-4">
+  <div class="card card--flat">
+    {% if post.cover %}
+    {% include snippets/get-nav-url.html path=post.cover %}
+    {% assign post_cover = __return %}
+    <div class="card__image">
+      <a href="{{ post.url }}" class="card__image" style="aspect-ratio: 16/9; overflow: hidden; display: block;">
+        <img src="{{ post_cover }}" alt="{{ post.title }}" style="object-fit: cover; width: 100%; height: 100%;">
+      </a>
+    </div>
+    {% endif %}
+    <div class="card__content">
+      <header>
+        <a href="{{ post.url }}">
+          <h2 class="card__header">{{ post.title }}</h2>
+        </a>
+      </header>
+      {% if post.excerpt %}
+      <p class="card__excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>

@@ -1,8 +1,7 @@
 ---
-lang: fr
-permalink: /fr/home/
 layout: page
-title: Home
+title: Introduction
+lang: fr
 show_title: false
 ---
 
@@ -56,7 +55,7 @@ Entièrement compatible avec [RBR Roadbook par Arek](https://rbr-masterclass.de/
 ## 🔧 Zones volant configurables
 
 L’application propose un système flexible de **zones du volant** permettant de :
-
+- **Configurer autant de zones que vous le souhaitez et définir vous-même les angles**
 - **Attribuer un appel spécifique à chaque zone**
 - **Ajouter des modificateurs plus/moins** pour plus de nuances — même avec les copilotes qui ne les prennent pas en charge nativement
 - **Importer et exporter des configurations**, pour partager facilement votre configuration avec d'autres
@@ -121,4 +120,4 @@ L’outil met actuellement l’accent sur le **capteur de rotation du volant**, 
 
 ---
 
-Besoin d'aide pour commencer ? Allez voir la [documentation](/documentation/) !
+Besoin d'aide pour commencer ? Allez voir la [documentation](/fr/documentation/) !

@@ -1,8 +1,7 @@
 ---
-lang: en
-permalink: /en/home/
 layout: page
-title: Accueil
+title: Introduction
+lang: en
 show_title: false
 ---
 
@@ -56,10 +55,12 @@ Fully compatible with [RBR Roadbook by Arek](https://rbr-masterclass.de/):
 ## 🔧 Configurable Steering Zones
 
 The application features a flexible **steering zone system** that lets you:
-
+- **Set up as many zones as you like and define the angles yourself**
 - **Assign a specific call to each steering range**
 - **Add plus/minus modifiers** for extra nuance — even with co-drivers that don’t natively support them
 - **Import and Export configurations**, so you can easily share your setup with others
+
+
 
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
@@ -121,4 +122,4 @@ The tool currently emphasizes the **steering sensor**, with planned improvements
 
 ---
 
-Need help getting started? Jump to the [documentation](/documentation/)!
+Need help getting started? Jump to the [documentation](/en/documentation/)!

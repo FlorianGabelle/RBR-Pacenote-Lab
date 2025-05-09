@@ -67,13 +67,10 @@ paths:
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
-collections:            # FLORIAN
-  pages:                # Define a custom collection named "pages"
-    output: true        # Tells Jekyll to render pages in this collection as output HTML
-    permalink: /:path/  # Sets the URL format to match the file path, using clean URLs
-                        # For example, _pages/about.md → /about/
-                        # _pages/docs/setup.md → /docs/setup/
-
+collections:
+  pages:
+    output: true
+    permalink: /:path/    
 
 ## => Post
 ##############################

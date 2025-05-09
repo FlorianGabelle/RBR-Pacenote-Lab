@@ -1,12 +1,91 @@
 header:
   en:
-    - title: Home
-      url: /en/home/
+    - title: Introduction
+      url: /en/introduction/
     - title: Documentation
       url: /en/documentation/
 
   fr:
-    - title: Accueil
-      url: /fr/home/
+    - title: Introduction
+      url: /fr/introduction/
     - title: Documentation
       url: /fr/documentation/
+
+docs-en:
+  - title: Prerequisites
+    children:
+      - title: RSF Telemetry Settings
+        url: /en/telemetry/
+
+  - title: Application Settings 
+    children:
+      - title: General Settings
+        url: /en/general_settings/
+      - title: Steering Zones
+        url: /en/steering_zones/
+      - title: Corner Lengths
+        url: /en/corner_lengths/
+      - title: Distances
+        url: /en/distances/
+      - title: Graphical Notes
+        url: /en/graphical_notes/
+
+  - title: Wheel Check Tool
+    url: /en/wheel_check_tool/
+
+  - title: Analysis
+    children:
+      - title: Steering Range
+        url: /en/steering_range/
+      - title: Advanced Settings
+        url: /en/advanced_settings/
+
+  - title: Visualization
+    children:
+      - title: Stage Map
+        url: /en/stage_map/
+      - title: Steering Trace
+        url: /en/steering_trace/
+
+  - title: Pacenotes
+    url: /en/output/
+
+
+docs-fr:
+  - title: Prérequis
+    children:
+      - title: Configuration de la Télémétrie RSF
+        url: /fr/telemetry/
+
+  - title: Configuration de l'application
+    children:
+      - title: Options Générales
+        url: /fr/general_settings/
+      - title: Zones Volant
+        url: /fr/steering_zones/
+      - title: Longueur de Virage
+        url: /fr/corner_lengths/
+      - title: Distances
+        url: /fr/distances/
+      - title: Notes Graphiques
+        url: /fr/graphical_notes/
+
+  - title: Test de Configuration Volant
+    url: /fr/wheel_check_tool/
+
+  - title: Analyse
+    children:
+      - title: Plage de Rotation du Volant
+        url: /fr/steering_range/
+      - title: Paramètres Avancés
+        url: /fr/advanced_settings/
+
+  - title: Visualisation
+    children:
+      - title: Carte de la Spéciale
+        url: /fr/stage_map/
+      - title: Graphique Angle Volant
+        url: /fr/steering_trace/
+
+  - title: Pacenotes
+    url: /fr/output/
