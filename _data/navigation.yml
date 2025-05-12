@@ -4,20 +4,33 @@ header:
       url: /en/introduction/
     - title: Documentation
       url: /en/documentation/
+    - title: About
+      url: /en/about/
+    - title: Contact
+      url: /en/contact/
 
   fr:
     - title: Introduction
       url: /fr/introduction/
     - title: Documentation
       url: /fr/documentation/
+    - title: À propos
+      url: /fr/about/
+    - title: Contact
+      url: /fr/contact/
 
 docs-en:
+  - title: Overview
+    children:
+      - title: Workflow Overview
+        url: /en/workflow_overview/
+
   - title: Prerequisites
     children:
       - title: RSF Telemetry Settings
-        url: /en/telemetry/
+        url: /en/telemetry_settings/
 
-  - title: Application Settings 
+  - title: Configuration 
     children:
       - title: General Settings
         url: /en/general_settings/
@@ -25,20 +38,26 @@ docs-en:
         url: /en/steering_zones/
       - title: Corner Lengths
         url: /en/corner_lengths/
-      - title: Distances
-        url: /en/distances/
-      - title: Graphical Notes
-        url: /en/graphical_notes/
+      - title: Links and Distances
+        url: /en/links_and_distances/
 
-  - title: Wheel Check Tool
-    url: /en/wheel_check_tool/
+  - title: Additional Tools
+    children:
+    - title: Pacenote Graphics Editor
+      url: /en/pacenote_graphics_editor/
+    - title: Calibration Tool
+      url: /en/calibration_tool/
 
-  - title: Analysis
+  - title: Analysis Settings
     children:
       - title: Steering Range
         url: /en/steering_range/
-      - title: Advanced Settings
-        url: /en/advanced_settings/
+      - title: Detection Threshold
+        url: /en/detection_threshold/
+      - title: Minimum Corner Length
+        url: /en/minimum_corner_length/
+      - title: Pacenote Offset
+        url: /en/pacenote_offset/
 
   - title: Visualization
     children:
@@ -48,44 +67,58 @@ docs-en:
         url: /en/steering_trace/
 
   - title: Pacenotes
-    url: /en/output/
-
+    children:
+      - title: Pacenote File Export
+        url: /en/pacenote_file_export/
 
 docs-fr:
+  - title: Présentation générale
+    children:
+    - title: Étapes du processus
+      url: /fr/workflow_overview/
+
   - title: Prérequis
     children:
-      - title: Configuration de la Télémétrie RSF
-        url: /fr/telemetry/
+      - title: Configuration de la télémétrie RSF
+        url: /fr/telemetry_settings/
 
-  - title: Configuration de l'application
+  - title: Configuration
     children:
-      - title: Options Générales
+      - title: Options générales
         url: /fr/general_settings/
-      - title: Zones Volant
+      - title: Zones volant
         url: /fr/steering_zones/
-      - title: Longueur de Virage
+      - title: Longueur des virages
         url: /fr/corner_lengths/
-      - title: Distances
-        url: /fr/distances/
-      - title: Notes Graphiques
-        url: /fr/graphical_notes/
+      - title: Enchaînements et distances
+        url: /fr/links_and_distances/
 
-  - title: Test de Configuration Volant
-    url: /fr/wheel_check_tool/
+  - title: Outils additionels
+    children:  
+      - title: Éditeur de notes graphiques
+        url: /fr/pacenote_graphics_editor/
+      - title: Calibration du volant
+        url: /fr/calibration_tool/
 
-  - title: Analyse
+  - title: Paramètres d'analyse
     children:
-      - title: Plage de Rotation du Volant
+      - title: Plage de rotation du volant
         url: /fr/steering_range/
-      - title: Paramètres Avancés
-        url: /fr/advanced_settings/
+      - title: Seuil de détection
+        url: /fr/detection_threshold/
+      - title: Longueur minimale des virages
+        url: /fr/minimum_corner_length/
+      - title: Avance/retard des notes
+        url: /fr/pacenote_offset/
 
   - title: Visualisation
     children:
-      - title: Carte de la Spéciale
+      - title: Carte de la spéciale
         url: /fr/stage_map/
-      - title: Graphique Angle Volant
+      - title: Courbe du volant
         url: /fr/steering_trace/
 
   - title: Pacenotes
-    url: /fr/output/
+    children:
+    - title: Export du fichier de notes
+      url: /fr/pacenote_file_export/

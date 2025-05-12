@@ -25,3 +25,9 @@ Gemfile.lock
 _site/
 .jekyll-metadata
 .jekyll-cache/
+_pages/en/contact.md
+_sass/custom.scss
+_sass/custom.scss
+.gitignore
+_pages/templates/emojis.md
+_sass/custom.scss

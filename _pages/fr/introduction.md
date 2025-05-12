@@ -5,119 +5,140 @@ lang: fr
 show_title: false
 ---
 
-RBR Pacenote Lab est un outil puissant, basé sur les données, qui vous permet de générer des notes de copilote entièrement personnalisables pour *Richard Burns Rally* avec précision, flexibilité et totale compatibilité.
+## RBR Pacenote Lab – précision, rapidité, contrôle
+
+**RBR Pacenote Lab** est un outil basé sur les données, conçu pour générer des pacenotes copilote entièrement personnalisables pour *Richard Burns Rally*. Il offre précision, flexibilité et compatibilité totale avec différents systèmes de copilote.
+
+Gagnez jusqu’à 75 % de temps — si créer des notes pour une spéciale de 15 km vous prenait plus de 2 heures, attendez-vous à terminer en 30–45 minutes.
+
+Vous en avez assez d’utiliser des pacenotes qui ne vous correspondent pas ?  
+Vous ne savez pas par où commencer pour créer les vôtres ?  
+C’est le bon moment pour reprendre le contrôle.
+
+Laissez l’outil gérer la précision — fini les approximations.
 
 ---
 
-## 📌 Ce que contiennent les notes
+## 🗒️ Contenu des pacenotes
 
-Les notes générées fournissent des informations détaillées telles que :
+Les pacenotes générés incluent :
 
-- **Position d'entrée du virage** — pour un placement précis des notes
-- **Amplitude du virage** — représentant la difficulté du virage selon l'angle de rotation du volant
-- **Longueur du virage**
-- **Distance entre les virages**
-- **Instructions de liaison** — comme *"et"* ou *"dans"*, selon les intervalles courts
-- **Tags de spéciales** — Start, Split, Finish and End_of_track
+- Enchaînements — par ex. *dans*, *et*
+- Appels de virage — numériques, descriptifs ou personnalisés
+- Modificateurs — plus/moins (fonctionne même avec des copilotes non compatibles)
+- Longueurs de virage — court, long, très long
+- Annonces de distance — repères optionnels sur les lignes droites
+- Marqueurs de spéciale — *Start*, *Split*, *Finish*, *End_of_track*
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/main_window.png">
-      <img src="/assets/images/ui/fr/main_window.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
+    <a data-gallery href="/assets/images/ui/en/main_window/analysis_done.PNG">
+      <img src="/assets/images/ui/en/main_window/analysis_done.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
     </a>
   </figure>
 </div>
 
-De plus, l'utilisateur peut affiner la génération des notes en :
+Vous pouvez affiner le résultat avec :
 
-- Ajustant la **distance de placement** pour chaque note
-- Réglant le **seuil de détection de l'angle du volant**
-- Activant des filtres pour **ignorer les virages courts ou non pertinents**
-
----
-
-## 🎙️ Compatibilité complète copilote
-
-RBR Pacenote Lab prend en charge **tous les types de copilotes**, y compris :
-
-- **Copilote d’origine de *Richard Burns Rally***
-- **Copilotes moddés par la communauté**
-- **Tous les systèmes de copilote** – Numérique, Descriptif, Rbr, et n'importe quel autre
-
-Le système de notes s’adapte automatiquement à la structure, la configuration et les annonces du copilote.
-
-Entièrement compatible avec [RBR Roadbook par Arek](https://rbr-masterclass.de/) :
-- **Créez des notes de virages et de distances** dans *RBR Pacenote Lab*
-- **Ajoutez des détails** dans *RBR Roadbook* !
+- Des distances personnalisées pour le placement
+- Des seuils de détection d'angle du volant ajustables
+- Des filtres pour ignorer les virages mineurs ou non pertinents
 
 ---
 
-## 🔧 Zones volant configurables
+## 🎙 Compatibilité copilote
 
-L’application propose un système flexible de **zones du volant** permettant de :
-- **Configurer autant de zones que vous le souhaitez et définir vous-même les angles**
-- **Attribuer un appel spécifique à chaque zone**
-- **Ajouter des modificateurs plus/moins** pour plus de nuances — même avec les copilotes qui ne les prennent pas en charge nativement
-- **Importer et exporter des configurations**, pour partager facilement votre configuration avec d'autres
+Que vous utilisiez le copilote d’origine, un mod communautaire ou votre propre configuration, RBR Pacenote Lab s’adapte :
+
+- Copilotes « legacy »
+- Mods de copilotes communautaires
+- Styles numériques, descriptifs ou personnalisés
+
+L’outil s’aligne automatiquement avec le format et la structure de votre copilote.
+
+### ✅ Compatible avec :
+- [**RBR Pacenote Plugin**](https://gvrc.de/NGP.html) par WorkerBee  
+- [**RBR Roadbook**](https://rbr-masterclass.de/) par MisterArek  
+- [**RSF**](https://rallysimfans.hu/rbr/index.php) par l’équipe de RallySimFans.hu
+
+**Exemple de processus :**  
+Générez les notes de virage et de distance dans **Pacenote Lab**, affinez les notes dans **RBR Roadbook**, sélectionnez le fichier final dans le **RSF Launcher**, et utilisez-le avec le **RBR Pacenote Plugin**.
+
+---
+
+## ⚙️ Zones volant
+
+Le système de zones volant vous permet de définir comment les virages sont interprétés :
+
+- Définissez des zones personnalisées avec des seuils d’angle
+- Assignez un appel à chaque plage
+- Ajoutez des modificateurs (plus/moins) si nécessaire
+- Importez/exportez des préréglages à partager ou réutiliser
 
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/fr/steering_zones_num.png">
-        <img src="/assets/images/ui/fr/steering_zones_num.png" style="width: 100%; height: auto;" alt="Fenêtre principale" />
+      <a data-gallery href="/assets/images/ui/en/steering_zones/numeric.PNG">
+        <img src="/assets/images/ui/en/steering_zones/numeric.PNG" style="width: 100%; height: auto;" alt="Fenêtre principale" />
       </a>
       <figcaption style="text-align: center;">Numérique</figcaption>
     </figure>
   </div>
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/fr/steering_zones_desc.png">
-        <img src="/assets/images/ui/fr/steering_zones_desc.png" style="width: 100%; height: auto;" alt="Fenêtre principale" />
+      <a data-gallery href="/assets/images/ui/en/steering_zones/descriptive.PNG">
+        <img src="/assets/images/ui/en/steering_zones/descriptive.PNG" style="width: 100%; height: auto;" alt="Fenêtre principale" />
       </a>
       <figcaption style="text-align: center;">Descriptif</figcaption>
     </figure>
   </div>
-</div> 
-
----
-
-## 🛠️ Fonctionnalités supplémentaires
-
-### Éditeur de notes graphiques
-
-**Personnalisez la représentation 2D et 3D de chaque appel** — idéal pour un réglage visuel et une meilleure clarté.  
-Les notes graphiques seront mises à jour non seulement **sur la carte de la spéciale** dans cette application mais **également en jeu**.
-
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/ui/fr/graphical_notes.png">
-      <img src="/assets/images/ui/fr/graphical_notes.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Fenêtre principale" />
-    </a>
-  </figure>
-</div>
-
-### Outil de test de configuration volant
-Lisez en direct les données d’angle de rotation du volant du simulateur pour **calibrer et vérifier précisément la plage de rotation** du volant.
-
----
-
-## 📈 Analyse des données
-
-L’outil met actuellement l’accent sur le **capteur de rotation du volant**, avec des améliorations prévues pour intégrer :
-
-- **Données de l’accéléromètre**
-- **Données du gyroscope**
-
-> ⚠️ L'angle de rotation du volant est priorisé dans l’algorithme actuel. La prise en charge des autres capteurs arrivera à une date ultérieure.
-
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/ui/fr/steering.png">
-      <img src="/assets/images/ui/fr/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
-    </a>
-  </figure>
 </div>
 
 ---
 
-Besoin d'aide pour commencer ? Allez voir la [documentation](/fr/documentation/) !
+## 🛠 Outils supplémentaires
+
+### Éditeur Graphique de Notes
+
+Personnalisez comment chaque appel est représenté sur la carte et en jeu — y compris les icônes 2D et 3D. Ajustez les visuels selon votre système.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG">
+      <img src="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Fenêtre principale" />
+    </a>
+  </figure>
+</div>
+
+### Outil de calibration
+
+Testez et calibrez votre configuration à l’aide des données de rotation du volant en temps réel issues du simulateur.
+
+---
+
+## 📈 Moteur d’analyse des données
+
+Actuellement compatible avec :
+
+- Angle du volant
+- Compteur kilométrique
+- GPS
+
+Fonctionnalités prévues :
+
+- Accéléromètre
+- Gyroscope
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/ui/en/steering.png">
+      <img src="/assets/images/ui/en/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
+    </a>
+  </figure>
+</div>
+
+---
+
+## 📚 Besoin d’aide pour démarrer ?
+
+Consultez la [documentation](/fr/documentation/) pour les guides de configuration, conseils d’utilisation et options avancées.
