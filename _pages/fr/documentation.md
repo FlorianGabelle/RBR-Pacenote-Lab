@@ -2,7 +2,7 @@
 layout: page
 title: Documentation
 lang: fr
-show_title: false
+show_date: false
 ---
 
 Bienvenue dans la documentation de **RBR Pacenote Lab**, un outil permettant de générer des pacenotes copilote pour le simulateur de rallye *Richard Burns Rally*.

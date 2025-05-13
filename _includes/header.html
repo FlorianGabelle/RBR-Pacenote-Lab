@@ -24,48 +24,40 @@
           {%- endif -%}
         </div>
         {%- if site.data.navigation.header -%}
-
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-
-          <nav class="navigation">
-            <ul>
-              {%- assign _lang = page.lang | default: site.lang -%}
-              {%- assign _nav = site.data.navigation.header[_lang] -%}
-              {%- for _item in _nav -%}
-              {%- include snippets/get-nav-url.html path=_item.url -%}
-              {%- assign _nav_url = __return -%}
-              {%- include snippets/get-nav-url.html path=page.url -%}
-              {%- assign _page_url = __return -%}
-              {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
-              {%- if _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
-              <li class="navigation__item navigation__item--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{
-                  _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-              {%- else -%}
-              <li class="navigation__item"><a href="{{ _item.url }}">{{ _item.title }}</a></li>
-              {%- endif -%}
-              {%- endfor -%}
-              {%- if site.search.provider -%}
-              <li><button class="button button--secondary button--circle search-button js-search-toggle"><i
-                    class="fas fa-search"></i></button></li>
-              {%- endif -%}
-            </ul>
-          </nav>
-
-          <!-- FLORIAN: Language switcher -->
-          <div class="header__lang-switch" style="text-align: right; margin-top: -1rem; margin-left: 2rem;">
-
-            {% assign base_path = page.url | remove_first: '/fr' | remove_first: '/en' %}
-            <a href="/en{{ base_path }}" title="English" style="display: inline-block;">
-              <img src="/assets/images/flags/gb.svg" alt="English"
-                style="height: 1.3rem; vertical-align: middle; margin-right: 0.5rem;" />
-            </a>
-            <a href="/fr{{ base_path }}" title="Français" style="display: inline-block;">
-              <img src="/assets/images/flags/fr.svg" alt="Français" style="height: 1.3rem; vertical-align: middle;" />
-            </a>
-          </div>
-
-        </div>
-
+        <nav class="navigation">
+          <ul>
+            {%- assign _lang = page.lang | default: site.lang -%}
+            {%- assign _nav = site.data.navigation.header[_lang] -%}
+            {%- for _item in _nav -%}
+            {%- include snippets/get-nav-url.html path=_item.url -%}
+            {%- assign _nav_url = __return -%}
+            {%- include snippets/get-nav-url.html path=page.url -%}
+            {%- assign _page_url = __return -%}
+            {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
+            {%- if _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
+            <li class="navigation__item navigation__item--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{
+                _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
+            {%- else -%}
+            <li class="navigation__item"><a href="{{ _item.url }}">{{ _item.title }}</a></li>
+            {%- endif -%}
+            {%- endfor -%}
+            {%- if site.search.provider -%}
+            <li><button class="button button--secondary button--circle search-button js-search-toggle"><i
+                  class="fas fa-search"></i></button></li>
+            {%- endif -%}
+            <li class="navigation__item navigation__lang-switch">
+              {% assign base_path = page.url | remove_first: '/fr' | remove_first: '/en' %}
+              <div class="lang-links">
+                <a href="/en{{ base_path }}" title="English">
+                  <img src="/assets/images/flags/gb.svg" alt="English" />
+                </a>
+                <a href="/fr{{ base_path }}" title="Français">
+                  <img src="/assets/images/flags/fr.svg" alt="Français" />
+                </a>
+              </div>
+            </li>
+          </ul>
+        </nav>
         {%- endif -%}
       </div>
     </header>

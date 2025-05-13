@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Workflow Overview"
+title: "Workflow"
 excerpt: "Overview"
 show_date: false
 lang: en

@@ -2,20 +2,17 @@
 layout: page
 title: Introduction
 lang: en
-show_title: false
+show_date: false
 ---
-
-## RBR Pacenote Lab – precision, speed, control
 
 **RBR Pacenote Lab** is a data-driven tool for generating fully customizable co-driver pacenotes for *Richard Burns Rally*. It offers precision, flexibility, and full compatibility with various co-driver systems.
 
 Save up to 75% of your time — if creating notes for a 15 km stage used to take over 2 hours, expect to finish in just 30–45 minutes.
 
-Tired of using pacenotes that don’t suit your style?  
-Overwhelmed by starting from scratch?  
-Now’s a great time to take control.
+If existing pacenotes don’t suit your driving style, or if building your own feels too complex, this tool can help.
+It lets you generate a clean, personalized base with minimal effort — no need to start from scratch.
 
-Let the tool handle the precision — no more guesswork.
+Let the software handle the precision and structure so you can focus on reviewing and refining.
 
 ---
 

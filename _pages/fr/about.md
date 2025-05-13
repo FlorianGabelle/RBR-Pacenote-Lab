@@ -2,27 +2,26 @@
 layout: page
 title: À propos
 lang: fr
-show_title: false
+show_date: false
 ---
 
-## 👤 À propos de l’auteur
+## 👤 L’auteur
 
-**Florian Gabelle**  
-Créateur de **RBR Pacenote Lab**
+Je m'appelle Florian Gabelle, créateur de **RBR Pacenote Lab**.
 
-Ingénieur automobile devenu ingénieur en développement logiciel. J’ai appris à conduire pour la première fois dans *Richard Burns Rally*, en 2005 — bien avant de passer le permis. Cette expérience en simracing a fait naître une passion durable pour le sport auto, réel comme virtuel.
+Double diplômé en ingénierie mécanique automobile et en développement logiciel. J’ai appris à conduire pour la première fois dans *Richard Burns Rally* en 2005 — bien avant de passer le permis de conduire. Cette expérience de simracing a éveillé une passion durable pour le sport automobile, réel comme virtuel.
 
-Avec un parcours en électronique, logiciel, ingénierie mécanique et compétition automobile, ce projet est un croisement naturel de mes centres d’intérêt — un terrain où la créativité rencontre la résolution de problèmes techniques.
+Avec un parcours mêlant électronique, logiciel, ingénierie mécanique et pilotage, ce projet est né naturellement de mes centres d’intérêt — là où la conception créative rencontre la résolution de problèmes techniques.
 
 ---
 
-## 🚀 À propos du projet
+## 🚀 Le projet
 
-**RBR Pacenote Lab** m’a permis de développer mes compétences en développement logiciel — de la conception d’interface à l’analyse de données jusqu’au déploiement. C’était l’occasion idéale d’explorer l’ensemble du cycle de développement, en pratique.
+**RBR Pacenote Lab** m’a permis de développer mes compétences en développement logiciel — de la conception d’interface à l’analyse de données, jusqu’au déploiement. J’y ai exploré l’ensemble du cycle de développement, de manière concrète et autonome.
 
-L’un de mes objectifs était de voir jusqu’où je pouvais aller en m’appuyant sur **Python** comme technologie principale — et les résultats ont dépassé mes attentes.
+L’un de mes objectifs était de tester les limites de **Python** en tant que technologie principale — et les résultats ont largement dépassé mes attentes.
 
-Cet outil a été créé avec passion pour les communautés **simracing** et **rallye**, dans l’idée d'offrir quelque chose de pratique et utile à d’autres passionnés.
+Cet outil a été créé avec une véritable passion pour les communautés **simracing** et **rallye**, dans l’espoir d’apporter quelque chose de pratique et agréable à d’autres passionnés.
 
 ---
 
@@ -39,15 +38,6 @@ Cet outil a été créé avec passion pour les communautés **simracing** et **r
 **Site web**  
 - [Jekyll](https://jekyllrb.com/), Markdown, Liquid, HTML, CSS, Bootstrap  
 - Thème [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) personnalisé
-
----
-
-<a id="support-this-project"></a>
-## 🙌 Soutenir ce projet
-
-Si vous appréciez cette application et souhaitez soutenir son développement, votre encouragement compte beaucoup. 💖
-
-[**☕ Offrez-moi un café**](https://buymeacoffee.com/floriangabelle) · [💙 Faire un don via PayPal](https://www.paypal.me/FlorianGabelle) — ou partagez simplement le projet autour de vous !
 
 ---
 

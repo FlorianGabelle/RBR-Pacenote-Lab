@@ -4,6 +4,8 @@ header:
       url: /en/introduction/
     - title: Documentation
       url: /en/documentation/
+    - title: Download
+      url: /en/download/
     - title: About
       url: /en/about/
     - title: Contact
@@ -14,6 +16,8 @@ header:
       url: /fr/introduction/
     - title: Documentation
       url: /fr/documentation/
+    - title: Téléchargement
+      url: /fr/download/
     - title: À propos
       url: /fr/about/
     - title: Contact
@@ -22,103 +26,103 @@ header:
 docs-en:
   - title: Overview
     children:
-      - title: Workflow Overview
-        url: /en/workflow_overview/
+      - title: Workflow
+        url: /en/docs/workflow/
 
   - title: Prerequisites
     children:
       - title: RSF Telemetry Settings
-        url: /en/telemetry_settings/
+        url: /en/docs/telemetry_settings/
 
   - title: Configuration 
     children:
       - title: General Settings
-        url: /en/general_settings/
+        url: /en/docs/general_settings/
       - title: Steering Zones
-        url: /en/steering_zones/
+        url: /en/docs/steering_zones/
       - title: Corner Lengths
-        url: /en/corner_lengths/
+        url: /en/docs/corner_lengths/
       - title: Links and Distances
-        url: /en/links_and_distances/
+        url: /en/docs/links_and_distances/
 
   - title: Additional Tools
     children:
     - title: Pacenote Graphics Editor
-      url: /en/pacenote_graphics_editor/
+      url: /en/docs/pacenote_graphics_editor/
     - title: Calibration Tool
-      url: /en/calibration_tool/
+      url: /en/docs/calibration_tool/
 
   - title: Analysis Settings
     children:
       - title: Steering Range
-        url: /en/steering_range/
+        url: /en/docs/steering_range/
       - title: Detection Threshold
-        url: /en/detection_threshold/
+        url: /en/docs/detection_threshold/
       - title: Minimum Corner Length
-        url: /en/minimum_corner_length/
+        url: /en/docs/minimum_corner_length/
       - title: Pacenote Offset
-        url: /en/pacenote_offset/
+        url: /en/docs/pacenote_offset/
 
   - title: Visualization
     children:
       - title: Stage Map
-        url: /en/stage_map/
+        url: /en/docs/stage_map/
       - title: Steering Trace
-        url: /en/steering_trace/
+        url: /en/docs/steering_trace/
 
   - title: Pacenotes
     children:
       - title: Pacenote File Export
-        url: /en/pacenote_file_export/
+        url: /en/docs/pacenote_file_export/
 
 docs-fr:
   - title: Présentation générale
     children:
-    - title: Étapes du processus
-      url: /fr/workflow_overview/
+    - title: Procédure à suivre
+      url: /fr/docs/workflow/
 
   - title: Prérequis
     children:
       - title: Configuration de la télémétrie RSF
-        url: /fr/telemetry_settings/
+        url: /fr/docs/telemetry_settings/
 
   - title: Configuration
     children:
       - title: Options générales
-        url: /fr/general_settings/
+        url: /fr/docs/general_settings/
       - title: Zones volant
-        url: /fr/steering_zones/
+        url: /fr/docs/steering_zones/
       - title: Longueur des virages
-        url: /fr/corner_lengths/
+        url: /fr/docs/corner_lengths/
       - title: Enchaînements et distances
-        url: /fr/links_and_distances/
+        url: /fr/docs/links_and_distances/
 
   - title: Outils additionels
     children:  
       - title: Éditeur de notes graphiques
-        url: /fr/pacenote_graphics_editor/
+        url: /fr/docs/pacenote_graphics_editor/
       - title: Calibration du volant
-        url: /fr/calibration_tool/
+        url: /fr/docs/calibration_tool/
 
   - title: Paramètres d'analyse
     children:
       - title: Plage de rotation du volant
-        url: /fr/steering_range/
+        url: /fr/docs/steering_range/
       - title: Seuil de détection
-        url: /fr/detection_threshold/
+        url: /fr/docs/detection_threshold/
       - title: Longueur minimale des virages
-        url: /fr/minimum_corner_length/
+        url: /fr/docs/minimum_corner_length/
       - title: Avance/retard des notes
-        url: /fr/pacenote_offset/
+        url: /fr/docs/pacenote_offset/
 
   - title: Visualisation
     children:
       - title: Carte de la spéciale
-        url: /fr/stage_map/
+        url: /fr/docs/stage_map/
       - title: Courbe du volant
-        url: /fr/steering_trace/
+        url: /fr/docs/steering_trace/
 
   - title: Pacenotes
     children:
     - title: Export du fichier de notes
-      url: /fr/pacenote_file_export/
+      url: /fr/docs/pacenote_file_export/

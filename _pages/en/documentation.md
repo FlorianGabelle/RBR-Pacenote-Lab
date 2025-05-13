@@ -2,7 +2,7 @@
 layout: page
 title: Documentation
 lang: en
-show_title: false
+show_date: false
 ---
 
 Welcome to the documentation for **RBR Pacenote Lab**, a tool for generating co-driver pacenotes in the rally simulator *Richard Burns Rally*.

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Étapes du processus"
+title: "Procédure à suivre"
 excerpt: "Présentation générale"
 show_date: false
 lang: fr
@@ -11,7 +11,7 @@ sidebar:
   nav: docs-fr
 ---
 
-Une fois l'application installée et configurée selon vos préférences, suivez ce processus pour créer et affiner vos pacenotes :
+Une fois l'application installée et configurée selon vos préférences, suivez ces étapes pour créer et affiner vos pacenotes :
 
 1. **Effectuez la reconnaissance**  
    Réalisez un premier passage de reconnaissance sur la spéciale.  
