@@ -11,7 +11,7 @@ Je m'appelle Florian Gabelle, créateur de **RBR Pacenote Lab**.
 
 Double diplômé en ingénierie mécanique automobile et en développement logiciel. J’ai appris à conduire pour la première fois dans *Richard Burns Rally* en 2005 — bien avant de passer le permis de conduire. Cette expérience de simracing a éveillé une passion durable pour le sport automobile, réel comme virtuel.
 
-Avec un parcours mêlant électronique, logiciel, ingénierie mécanique et pilotage, ce projet est né naturellement de mes centres d’intérêt — là où la conception créative rencontre la résolution de problèmes techniques.
+Avec un parcours mêlant électronique, logiciel, ingénierie mécanique et compétition automobile, ce projet est né naturellement de mes centres d’intérêt — là où la conception créative rencontre la résolution de problèmes techniques.
 
 ---
 

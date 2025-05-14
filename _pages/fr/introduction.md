@@ -29,8 +29,8 @@ Les pacenotes générés incluent :
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/main_window/analysis_done.PNG">
-      <img src="/assets/images/ui/en/main_window/analysis_done.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
+    <a data-gallery href="/assets/images/docs/fr/introduction/main_window.PNG">
+      <img src="/assets/images/docs/fr/introduction/main_window.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
     </a>
   </figure>
 </div>
@@ -75,16 +75,16 @@ Le système de zones volant vous permet de définir comment les virages sont int
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/en/steering_zones/numeric.PNG">
-        <img src="/assets/images/ui/en/steering_zones/numeric.PNG" style="width: 100%; height: auto;" alt="Fenêtre principale" />
+      <a data-gallery href="/assets/images/docs/fr/introduction/steering_zones_numeric.PNG">
+        <img src="/assets/images/docs/fr/introduction/steering_zones_numeric.PNG" style="width: 100%; height: auto;" alt="Zones volant - Numérique" />
       </a>
       <figcaption style="text-align: center;">Numérique</figcaption>
     </figure>
   </div>
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/en/steering_zones/descriptive.PNG">
-        <img src="/assets/images/ui/en/steering_zones/descriptive.PNG" style="width: 100%; height: auto;" alt="Fenêtre principale" />
+      <a data-gallery href="/assets/images/docs/fr/introduction/steering_zones_descriptive.PNG">
+        <img src="/assets/images/docs/fr/introduction/steering_zones_descriptive.PNG" style="width: 100%; height: auto;" alt="Zones volant - Descriptif" />
       </a>
       <figcaption style="text-align: center;">Descriptif</figcaption>
     </figure>
@@ -93,7 +93,7 @@ Le système de zones volant vous permet de définir comment les virages sont int
 
 ---
 
-## 🛠 Outils supplémentaires
+## 🛠 Outils additionnels
 
 ### Éditeur Graphique de Notes
 
@@ -101,8 +101,8 @@ Personnalisez comment chaque appel est représenté sur la carte et en jeu — y
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG">
-      <img src="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Fenêtre principale" />
+    <a data-gallery href="/assets/images/docs/fr/introduction/pacenote_graphics_editor.PNG">
+      <img src="/assets/images/docs/fr/introduction/pacenote_graphics_editor.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Editeur de notes graphiques" />
     </a>
   </figure>
 </div>
@@ -110,6 +110,15 @@ Personnalisez comment chaque appel est représenté sur la carte et en jeu — y
 ### Outil de calibration
 
 Testez et calibrez votre configuration à l’aide des données de rotation du volant en temps réel issues du simulateur.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG">
+      <img src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG" style="display: block; margin: 0 auto; max-width: 50%;" alt="Calibration Tool" />
+    </a>
+  </figure>
+</div>
+
 
 ---
 
@@ -128,8 +137,8 @@ Fonctionnalités prévues :
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/steering.png">
-      <img src="/assets/images/ui/en/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
+    <a data-gallery href="/assets/images/docs/fr/introduction/steering.png">
+      <img src="/assets/images/docs/fr/introduction/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Courbe du volant" />
     </a>
   </figure>
 </div>

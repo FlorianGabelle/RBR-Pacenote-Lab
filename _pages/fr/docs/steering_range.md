@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 9
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/steering_range/setting.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -18,15 +18,24 @@ L’objectif est simple :
 
 Cette correspondance 1:1 permet des mesures précises et reproductibles — essentielles pour générer des pacenotes cohérents.
 
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/steering_range/setting.PNG">
+      <img src="/assets/images/docs/fr/steering_range/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Plage de rotation" />
+    </a>
+  </figure>
+</div>
+
 ---
 
 ### ⚙️ Configuration
 
-L’approche recommandée consiste à régler la **plage de rotation dans le logiciel de votre base de volant** en fonction de l’**angle de rotation du volant du véhicule**, visible dans le menu de sélection des voitures du jeu.  
-Utilisez ensuite cette même valeur dans les paramètres d’analyse.
+- Si l’option **« Activer la rotation du volant automatiquement par voiture »** est activée dans RSF Launcher, utilisez la **valeur de l’angle de direction de la voiture**.
+- Si vous utilisez **« Rotation visuelle du volant »** dans la section *Mes Voitures* avec **« Activer la rotation du volant automatiquement par voiture »**, utilisez la **valeur personnalisée que vous avez définie pour remplacer la valeur par défaut de NGP**.
+- Si **aucune de ces options n’est activée**, utilisez la **valeur d’angle de rotation de votre base de volant**.
 
-Si vous utilisez l’option **« Activer la rotation du volant automatiquement par voiture »** ou le paramètre **« Rotation visuelle du volant »** dans l’onglet *Mes voitures* du **Launcher RSF**, vous devez malgré tout vous baser sur la plage définie dans votre base de volant.
 
-En cas de doute, ou pour vérifier votre configuration, utilisez l’**outil de calibration** intégré à l’application. Il vous aide à affiner la bonne valeur à l’aide des données en temps réel.
+Si vous avez un doute ou souhaitez vérifier votre configuration, utilisez l’outil de calibration inclus dans l’application. Il vous aide à détecter la plage correcte à l’aide de la télémétrie en temps réel.
+
 
 Pour plus de détails, consultez la page [Outil de calibration](/fr/calibration_tool/).

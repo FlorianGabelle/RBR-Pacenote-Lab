@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 11
-# cover: /assets/images/ui/en/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/en/minimum_corner_length/setting.PNG
 sidebar:
   nav: docs-en
 ---
@@ -19,6 +19,14 @@ These brief detections can be caused by:
 - Sudden or unintended steering inputs
 
 Adjusting this value helps remove false positives and improve the clarity of your pacenotes.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/en/minimum_corner_length/setting.PNG">
+      <img src="/assets/images/docs/en/minimum_corner_length/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Detection Threshold Setting" />
+    </a>
+  </figure>
+</div>
 
 ---
 

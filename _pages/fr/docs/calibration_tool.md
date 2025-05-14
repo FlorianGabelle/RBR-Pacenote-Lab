@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 8
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/calibration_tool/calibration_tool.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -24,6 +24,14 @@ En lisant les données du volant en temps réel via le flux de télémétrie UDP
 3. Gardez la **fenêtre du jeu active** — c’est nécessaire pour que la télémétrie soit lue.  
 4. Tournez votre volant de **180 degrés vers la droite**.  
 5. Cliquez sur le bouton **Calculer**.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG">
+      <img src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG" style="display: block; margin: 0 auto; max-width: 50%;" alt="Outil de calibration" />
+    </a>
+  </figure>
+</div>
 
 ---
 

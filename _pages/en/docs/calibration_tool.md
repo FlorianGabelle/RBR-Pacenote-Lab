@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 8
-# cover: /assets/images/ui/en/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/en/calibration_tool/calibration_tool.PNG
 sidebar:
   nav: docs-en
 ---
@@ -24,6 +24,14 @@ By reading live steering data from the UDP telemetry stream, the tool compares y
 3. Keep the **game window in focus** — this is required for the tool to read telemetry.
 4. Rotate your steering wheel 180 degrees to the right.
 5. Click the **Compute** button.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/en/calibration_tool/calibration_tool.PNG">
+      <img src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG" style="display: block; margin: 0 auto; max-width: 50%;" alt="Calibration Tool Window" />
+    </a>
+  </figure>
+</div>
 
 ---
 

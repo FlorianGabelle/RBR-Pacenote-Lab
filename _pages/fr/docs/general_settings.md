@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 3
-cover: /assets/images/ui/fr/general_settings/general_settings.PNG
+cover: /assets/images/docs/fr/general_settings/general_settings.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -20,8 +20,8 @@ Lors du premier lancement de l’application, ouvrez la fenêtre de configuratio
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/general_settings/general_settings.PNG">
-      <img src="/assets/images/ui/fr/general_settings/general_settings.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Paramètres généraux" />
+    <a data-gallery href="/assets/images/docs/fr/general_settings/general_settings.PNG">
+      <img src="/assets/images/docs/fr/general_settings/general_settings.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Options générales" />
     </a>
   </figure>
 </div>

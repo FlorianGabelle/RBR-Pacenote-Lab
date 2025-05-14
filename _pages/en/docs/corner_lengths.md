@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 5
-cover: /assets/images/ui/en/corner_lengths.png
+cover: /assets/images/docs/en/corner_lengths/settings.png
 sidebar:
   nav: docs-en
 ---
@@ -22,8 +22,8 @@ Corner length is categorized as:
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/corner_lengths.png">
-      <img src="/assets/images/ui/en/corner_lengths.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Corner length" />
+    <a data-gallery href="/assets/images/docs/en/corner_lengths/settings.png">
+      <img src="/assets/images/docs/en/corner_lengths/settings.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Corner Length Settings" />
     </a>
   </figure>
 </div>

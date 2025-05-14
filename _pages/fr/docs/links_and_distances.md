@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 6
-cover: /assets/images/ui/fr/distances.png
+cover: /assets/images/docs/fr/links_and_distances/links_and_distances.png
 sidebar:
   nav: docs-fr
 ---
@@ -18,8 +18,8 @@ Cette section permet de configurer deux fonctionnalités clés :
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/distances.png">
-      <img src="/assets/images/ui/fr/distances.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Distances" />
+    <a data-gallery href="/assets/images/docs/fr/links_and_distances/links_and_distances.png">
+      <img src="/assets/images/docs/fr/links_and_distances/links_and_distances.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Enchaînements et distances" />
     </a>
   </figure>
 </div>

@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 7
-cover: /assets/images/ui/en/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/en/pacenote_graphics_editor/default.PNG
 sidebar:
   nav: docs-en
 ---
@@ -17,8 +17,8 @@ You can select a pacenote package using the **Current package** dropdown. Each p
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/pacenote_graphics_editor/default.PNG">
-      <img src="/assets/images/ui/en/pacenote_graphics_editor/default.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Pacenote graphics editor" />
+    <a data-gallery href="/assets/images/docs/en/pacenote_graphics_editor/default.PNG">
+      <img src="/assets/images/docs/en/pacenote_graphics_editor/default.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Pacenote Graphics Editor" />
     </a>
   </figure>
 </div>
@@ -38,8 +38,8 @@ To override or add a pacenote graphic:
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG">
-      <img src="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Graphics selection dropdown" />
+    <a data-gallery href="/assets/images/docs/en/pacenote_graphics_editor/combobox.PNG">
+      <img src="/assets/images/docs/en/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Graphics Selection Dropdown" />
     </a>
   </figure>
 </div>

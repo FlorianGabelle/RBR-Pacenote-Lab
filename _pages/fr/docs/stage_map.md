@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 13
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/stage_map/map_view.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -14,6 +14,14 @@ sidebar:
 La **carte de la spéciale** est l’outil principal pour évaluer la qualité de vos réglages de génération de pacenotes.
 
 Elle offre une vue claire et précise des données, et de leur correspondance avec le tracé réel de la spéciale.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/stage_map/map_view.PNG">
+      <img src="/assets/images/docs/fr/stage_map/map_view.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Map View" />
+    </a>
+  </figure>
+</div>
 
 ---
 

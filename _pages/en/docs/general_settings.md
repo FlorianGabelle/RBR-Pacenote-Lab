@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 3
-cover: /assets/images/ui/en/general_settings/general_settings.PNG
+cover: /assets/images/docs/en/general_settings/general_settings.PNG
 sidebar:
   nav: docs-en
 ---
@@ -20,8 +20,8 @@ The first time you run the application, open the configuration window and comple
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/general_settings/general_settings.PNG">
-      <img src="/assets/images/ui/en/general_settings/general_settings.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="General settings" />
+    <a data-gallery href="/assets/images/docs/en/general_settings/general_settings.PNG">
+      <img src="/assets/images/docs/en/general_settings/general_settings.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="General Settings" />
     </a>
   </figure>
 </div>

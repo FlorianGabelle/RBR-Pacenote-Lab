@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 10
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/detection_threshold/setting.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -17,6 +17,14 @@ Le **seuil de détection** est un paramètre clé de l’analyse. Il influence p
 - Détection de la fin du virage  
 - Calcul de la longueur des virages  
 - Calcul des distances entre virages (et donc la détection des enchaînements)
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/detection_threshold/setting.PNG">
+      <img src="/assets/images/docs/fr/detection_threshold/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Detection Threshold Setting" />
+    </a>
+  </figure>
+</div>
 
 ---
 

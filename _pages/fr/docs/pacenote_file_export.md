@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 15
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -38,6 +38,15 @@ Cette étape finale ajoute des informations impossibles à déduire uniquement d
 ### ✅ Dernière étape : sélection dans RSF
 
 Après avoir généré et édité vos pacenotes, pensez à sélectionner le bon fichier dans le **Launcher RSF** pour la spéciale correspondante.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG">
+      <img src="/assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="RSF My Pacenotes" />
+    </a>
+  </figure>
+</div>
+
 
 ---
 

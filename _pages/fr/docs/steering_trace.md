@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 14
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/steering_trace/steering_view.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -15,6 +15,14 @@ La **courbe du volant** est un outil de diagnostic qui visualise votre entrée d
 Bien qu’elle puisse paraître complexe au début — notamment si vous débutez avec la télémétrie — elle fournit des informations précieuses sur les données brutes derrière vos pacenotes.
 
 Elle permet d’évaluer la qualité de votre conduite, de comprendre pourquoi un virage a été détecté d’une certaine façon, et d’ajuster vos paramètres d’analyse si nécessaire.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/steering_trace/steering_view.PNG">
+      <img src="/assets/images/docs/fr/steering_trace/steering_view.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Steering View" />
+    </a>
+  </figure>
+</div>
 
 ---
 

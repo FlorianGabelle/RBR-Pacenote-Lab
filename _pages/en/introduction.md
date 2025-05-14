@@ -29,8 +29,8 @@ Generated pacenotes include:
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/main_window/analysis_done.PNG">
-      <img src="/assets/images/ui/en/main_window/analysis_done.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Main window" />
+    <a data-gallery href="/assets/images/docs/en/introduction/main_window.PNG">
+      <img src="/assets/images/docs/en/introduction/main_window.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Main window" />
     </a>
   </figure>
 </div>
@@ -75,16 +75,16 @@ The steering zone system lets you control how turns are interpreted:
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/en/steering_zones/numeric.PNG">
-        <img src="/assets/images/ui/en/steering_zones/numeric.PNG" style="width: 100%; height: auto;" alt="Main window" />
+      <a data-gallery href="/assets/images/docs/en/introduction/steering_zones_numeric.PNG">
+        <img src="/assets/images/docs/en/introduction/steering_zones_numeric.PNG" style="width: 100%; height: auto;" alt="Steering Zones - Numeric" />
       </a>
       <figcaption style="text-align: center;">Numeric</figcaption>
     </figure>
   </div>
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/en/steering_zones/descriptive.PNG">
-        <img src="/assets/images/ui/en/steering_zones/descriptive.PNG" style="width: 100%; height: auto;" alt="Main window" />
+      <a data-gallery href="/assets/images/docs/en/introduction/steering_zones_descriptive.PNG">
+        <img src="/assets/images/docs/en/introduction/steering_zones_descriptive.PNG" style="width: 100%; height: auto;" alt="Steering Zones - Descriptive" />
       </a>
       <figcaption style="text-align: center;">Descriptive</figcaption>
     </figure>
@@ -101,8 +101,8 @@ Customize how each call appears on the stage map and in-game — including 2D an
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG">
-      <img src="/assets/images/ui/en/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Main window" />
+    <a data-gallery href="/assets/images/docs/en/introduction/pacenote_graphics_editor.PNG">
+      <img src="/assets/images/docs/en/introduction/pacenote_graphics_editor.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Pacenote Graphics Editor" />
     </a>
   </figure>
 </div>
@@ -110,6 +110,14 @@ Customize how each call appears on the stage map and in-game — including 2D an
 ### Calibration tool
 
 Test and calibrate your setup using live steering angle data from your simulator.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/en/calibration_tool/calibration_tool.PNG">
+      <img src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG" style="display: block; margin: 0 auto; max-width: 50%;" alt="Calibration Tool" />
+    </a>
+  </figure>
+</div>
 
 ---
 
@@ -128,8 +136,8 @@ Planned additions:
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/steering.png">
-      <img src="/assets/images/ui/en/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Main window" />
+    <a data-gallery href="/assets/images/docs/en/introduction/steering.png">
+      <img src="/assets/images/docs/en/introduction/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Steering View" />
     </a>
   </figure>
 </div>

@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 6
-cover: /assets/images/ui/en/distances.png
+cover: /assets/images/docs/en/links_and_distances/settings.png
 sidebar:
   nav: docs-en
 ---
@@ -18,8 +18,8 @@ This section allows you to configure two key features:
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/distances.png">
-      <img src="/assets/images/ui/en/distances.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Distances" />
+    <a data-gallery href="/assets/images/docs/en/links_and_distances/settings.png">
+      <img src="/assets/images/docs/en/links_and_distances/settings.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Links and Distances Settings" />
     </a>
   </figure>
 </div>

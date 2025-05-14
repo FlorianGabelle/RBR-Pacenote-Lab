@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 5
-cover: /assets/images/ui/fr/corner_lengths.png
+cover: /assets/images/docs/fr/corner_lengths/corner_lengths.png
 sidebar:
   nav: docs-fr
 ---
@@ -22,8 +22,8 @@ Les longueurs sont classées selon les catégories suivantes :
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/corner_lengths.png">
-      <img src="/assets/images/ui/fr/corner_lengths.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Longueur des virages" />
+    <a data-gallery href="/assets/images/docs/fr/corner_lengths/corner_lengths.png">
+      <img src="/assets/images/docs/fr/corner_lengths/corner_lengths.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Longueur des virages" />
     </a>
   </figure>
 </div>

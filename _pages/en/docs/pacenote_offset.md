@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 12
-# cover: /assets/images/ui/en/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/en/pacenote_offset/setting.PNG
 sidebar:
   nav: docs-en
 ---
@@ -18,6 +18,14 @@ Since pacenote positions are determined by the corner detection algorithm, their
 The offset is a distance value in meters:
 - A **negative value** moves the pacenote earlier (before the corner)
 - A **positive value** places it further into the corner
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/en/pacenote_offset/setting.PNG">
+      <img src="/assets/images/docs/en/pacenote_offset/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Pacenote Offset Setting" />
+    </a>
+  </figure>
+</div>
 
 ---
 

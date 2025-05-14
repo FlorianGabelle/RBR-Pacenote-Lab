@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 2
-cover: assets/images/ui/fr/telemetry.PNG
+cover: /assets/images/docs/fr/telemetry_settings/telemetry.png
 sidebar:
   nav: docs-fr
 ---
@@ -31,8 +31,8 @@ Pour utiliser l’**outil de calibration**, appliquez ces réglages :
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/telemetry.png">
-      <img src="/assets/images/ui/fr/telemetry.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Fenêtre principale" />
+    <a data-gallery href="/assets/images/docs/fr/telemetry_settings/telemetry.png">
+      <img src="/assets/images/docs/fr/telemetry_settings/telemetry.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Télémétrie RSF" />
     </a>
   </figure>
 </div>

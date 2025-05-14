@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 4
-cover: /assets/images/ui/fr/steering_zones/zones.PNG
+cover: /assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -17,12 +17,12 @@ Les **zones volant** permettent de catégoriser les virages selon l’angle appl
 
 ### ⚙️ Configuration
 
-Cliquez sur le bouton **Ajouter une zone volant** pour définir votre première plage d’angle. Cela crée une zone initiale entre la position neutre (0°) et le seuil que vous avez choisi. Vous pouvez attribuer des appels pour la gauche et la droite à chaque zone.
+Cliquez sur le bouton **Ajouter une zone volant** pour définir votre première plage d’angle. Cela crée une zone initiale entre la position neutre (0°) et le seuil que vous avez choisi (par exemple: 14°). Vous pouvez attribuer des appels pour la gauche et la droite à chaque zone.
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/steering_zones/first_zone.PNG">
-      <img src="/assets/images/ui/fr/steering_zones/first_zone.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Première zone" />
+    <a data-gallery href="/assets/images/docs/fr/steering_zones/first_zone.PNG">
+      <img src="/assets/images/docs/fr/steering_zones/first_zone.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Première zone" />
     </a>
   </figure>
 </div>
@@ -31,8 +31,8 @@ Vous pouvez ensuite ajouter d’autres zones. Par exemple, si vous définissez u
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/steering_zones/second_zone.PNG">
-      <img src="/assets/images/ui/fr/steering_zones/second_zone.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Deuxième zone" />
+    <a data-gallery href="/assets/images/docs/fr/steering_zones/second_zone.PNG">
+      <img src="/assets/images/docs/fr/steering_zones/second_zone.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Deuxième zone" />
     </a>
   </figure>
 </div>
@@ -41,8 +41,8 @@ Vous pouvez également définir des modificateurs (ex. *plus* ou *moins*) pour a
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/steering_zones/modifier.PNG">
-      <img src="/assets/images/ui/fr/steering_zones/modifier.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Exemple de modificateur" />
+    <a data-gallery href="/assets/images/docs/fr/steering_zones/modifier.PNG">
+      <img src="/assets/images/docs/fr/steering_zones/modifier.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Exemple de modificateur" />
     </a>
   </figure>
 </div>
@@ -84,16 +84,16 @@ Voici deux fichiers de zones prêts à l’emploi, basés sur mon overlay Simhub
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/fr/steering_zones/descriptive.PNG">
-        <img src="/assets/images/ui/fr/steering_zones/descriptive.PNG" style="width: 100%; height: auto;" alt="Mode descriptif" />
+      <a data-gallery href="/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG">
+        <img src="/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG" style="width: 100%; height: auto;" alt="Mode descriptif" />
       </a>
       <figcaption style="text-align: center;">Descriptif / RBR</figcaption>
     </figure>
   </div>
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/fr/steering_zones/numeric.PNG">
-        <img src="/assets/images/ui/fr/steering_zones/numeric.PNG" style="width: 100%; height: auto;" alt="Mode numérique" />
+      <a data-gallery href="/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG">
+        <img src="/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG" style="width: 100%; height: auto;" alt="Mode numérique" />
       </a>
       <figcaption style="text-align: center;">Numérique</figcaption>
     </figure>

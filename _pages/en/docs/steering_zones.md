@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 4
-cover: /assets/images/ui/en/steering_zones/zones.PNG
+cover: /assets/images/docs/en/steering_zones/steering_zones_numeric.PNG
 sidebar:
   nav: docs-en
 ---
@@ -17,12 +17,12 @@ Steering zones are used to categorize corners based on the amount of steering in
 
 ### ⚙️ Configuration
 
-Click the **Add a steering zone** button to define your first angle range. This sets up the initial zone from the neutral (0°) position up to your chosen threshold. You can assign left and right pacenote calls for each zone.
+Click the **Add a steering zone** button to define your first angle range. This sets up the initial zone from the neutral (0°) position up to your chosen threshold (for example: 14°). You can assign left and right pacenote calls for each zone.
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/steering_zones/first_zone.PNG">
-      <img src="/assets/images/ui/en/steering_zones/first_zone.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="First zone" />
+    <a data-gallery href="/assets/images/docs/en/steering_zones/first_zone.PNG">
+      <img src="/assets/images/docs/en/steering_zones/first_zone.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="First zone" />
     </a>
   </figure>
 </div>
@@ -31,8 +31,8 @@ You can then add more zones. For example, if you define a new angle at 43°, tha
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/steering_zones/second_zone.PNG">
-      <img src="/assets/images/ui/en/steering_zones/second_zone.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Second zone" />
+    <a data-gallery href="/assets/images/docs/en/steering_zones/second_zone.PNG">
+      <img src="/assets/images/docs/en/steering_zones/second_zone.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Second zone" />
     </a>
   </figure>
 </div>
@@ -41,8 +41,8 @@ You can also define modifier calls (e.g., *plus* or *minus*) to add nuance — u
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/steering_zones/modifier.PNG">
-      <img src="/assets/images/ui/en/steering_zones/modifier.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Modifier example" />
+    <a data-gallery href="/assets/images/docs/en/steering_zones/modifier.PNG">
+      <img src="/assets/images/docs/en/steering_zones/modifier.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Modifier Example" />
     </a>
   </figure>
 </div>
@@ -83,16 +83,16 @@ Below are two ready-to-use zone files based on my 6–1 SimHub steering overlay 
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/en/steering_zones/descriptive.PNG">
-        <img src="/assets/images/ui/en/steering_zones/descriptive.PNG" style="width: 100%; height: auto;" alt="Main window" />
+      <a data-gallery href="/assets/images/docs/en/steering_zones/steering_zones_descriptive.PNG">
+        <img src="/assets/images/docs/en/steering_zones/steering_zones_descriptive.PNG" style="width: 100%; height: auto;" alt="Descriptive" />
       </a>
       <figcaption style="text-align: center;">Descriptive / Rbr</figcaption>
     </figure>
   </div>
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/ui/en/steering_zones/numeric.PNG">
-        <img src="/assets/images/ui/en/steering_zones/numeric.PNG" style="width: 100%; height: auto;" alt="Main window" />
+      <a data-gallery href="/assets/images/docs/en/steering_zones_steering_zones/numeric.PNG">
+        <img src="/assets/images/docs/en/steering_zones/steering_zones_numeric.PNG" style="width: 100%; height: auto;" alt="Numeric" />
       </a>
       <figcaption style="text-align: center;">Numeric</figcaption>
     </figure>

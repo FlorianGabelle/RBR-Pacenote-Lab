@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 7
-cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/pacenote_graphics_editor/default.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -17,8 +17,8 @@ Vous pouvez sélectionner un **package de pacenotes** via le menu déroulant **P
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/pacenote_graphics_editor/default.PNG">
-      <img src="/assets/images/ui/fr/pacenote_graphics_editor/default.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Éditeur graphique des pacenotes" />
+    <a data-gallery href="/assets/images/docs/fr/pacenote_graphics_editor/default.PNG">
+      <img src="/assets/images/docs/fr/pacenote_graphics_editor/default.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Éditeur de notes graphiques" />
     </a>
   </figure>
 </div>
@@ -38,8 +38,8 @@ Pour modifier ou ajouter une icône :
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/fr/pacenote_graphics_editor/combobox.PNG">
-      <img src="/assets/images/ui/fr/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Menu déroulant des icônes" />
+    <a data-gallery href="/assets/images/docs/fr/pacenote_graphics_editor/combobox.PNG">
+      <img src="/assets/images/docs/fr/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Menu déroulant des icônes" />
     </a>
   </figure>
 </div>

@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 13
-# cover: /assets/images/ui/en/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/en/stage_map/map_view.PNG
 sidebar:
   nav: docs-en
 ---
@@ -14,6 +14,14 @@ sidebar:
 The **stage map** is the primary tool for evaluating the quality of your pacenote generation settings.
 
 It gives you a clear, accurate visual of the data and how it maps to the stage.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/en/stage_map/map_view.PNG">
+      <img src="/assets/images/docs/en/stage_map/map_view.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Map View" />
+    </a>
+  </figure>
+</div>
 
 ---
 

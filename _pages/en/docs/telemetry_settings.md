@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 2
-cover: assets/images/ui/en/telemetry.PNG
+cover: /assets/images/docs/en/telemetry_settings/rsf_telemetry_settings.png
 sidebar:
   nav: docs-en
 ---
@@ -31,8 +31,8 @@ For the calibration tool, use these settings:
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/ui/en/telemetry.png">
-      <img src="/assets/images/ui/en/telemetry.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Telemetry settings screenshot" />
+    <a data-gallery href="/assets/images/docs/en/telemetry_settings/rsf_telemetry_settings.png">
+      <img src="/assets/images/docs/en/telemetry_settings/rsf_telemetry_settings.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="RSF Telemetry Settings" />
     </a>
   </figure>
 </div>

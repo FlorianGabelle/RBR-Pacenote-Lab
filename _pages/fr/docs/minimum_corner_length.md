@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 11
-# cover: /assets/images/ui/fr/pacenote_graphics_editor/default.PNG
+cover: /assets/images/docs/fr/minimum_corner_length/setting.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -19,6 +19,14 @@ Ces détections brèves peuvent être dues à :
 - Des mouvements de volant brusques ou involontaires
 
 Ajuster cette valeur permet de réduire les faux positifs et d’améliorer la clarté des pacenotes.
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="/assets/images/docs/fr/minimum_corner_length/setting.PNG">
+      <img src="/assets/images/docs/fr/minimum_corner_length/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Detection Threshold Setting" />
+    </a>
+  </figure>
+</div>
 
 ---
 
