@@ -5,13 +5,12 @@ lang: en
 show_date: false
 ---
 
-{% raw %}
 <div class="form-container">
   <form class="contact-form" action="https://formsubmit.co/rbr.pacenote.lab@gmail.com" method="POST">
     <!-- Spam protection -->
     <input type="hidden" name="_honey" style="display:none">
     <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="{{ '/en/thank_you/' | relative_url }}">
+    <input type="hidden" name="_next" value="{{ '/en/thank_you/' | absolute_url }}">
 
     <label for="name">Full Name:</label>
     <input type="text" name="name" id="name" required>
@@ -27,4 +26,3 @@ show_date: false
     </button>
   </form>
 </div>
-{% endraw %}
