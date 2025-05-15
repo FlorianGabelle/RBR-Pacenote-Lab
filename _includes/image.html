@@ -1,0 +1,16 @@
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery href="{{ include.src | relative_url }}">
+      <img
+        src="{{ include.src | relative_url }}"
+        alt="{{ include.alt | default: '' }}"
+        style="display: block; margin: 0 auto; max-width: {{ include.max_width | default: '100%' }};"
+      />
+    </a>
+    {% if include.caption %}
+      <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
+        {{ include.caption }}
+      </figcaption>
+    {% endif %}
+  </figure>
+</div>
