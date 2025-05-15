@@ -19,13 +19,10 @@ La valeur est exprimée en mètres :
 - Une **valeur négative** avance la note (elle est placée plus tôt, avant le virage)
 - Une **valeur positive** la retarde (elle est placée plus loin dans le virage)
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/pacenote_offset/setting.PNG">
-      <img src="/assets/images/docs/fr/pacenote_offset/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Pacenote Offset Setting" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/pacenote_offset/setting.PNG"
+   alt="Avance/retard des notes"
+   max_width="80%" %}
 
 ---
 

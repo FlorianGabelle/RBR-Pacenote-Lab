@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 6
-cover: /assets/images/docs/fr/links_and_distances/links_and_distances.png
+cover: /assets/images/docs/fr/links_and_distances/settings.png
 sidebar:
   nav: docs-fr
 ---
@@ -16,13 +16,10 @@ Cette section permet de configurer deux fonctionnalités clés :
 - **Enchaînements entre virages** (ex. : *« dans »*, *« et »*)  
 - **Appels de distance**
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/links_and_distances/links_and_distances.png">
-      <img src="/assets/images/docs/fr/links_and_distances/links_and_distances.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Enchaînements et distances" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/links_and_distances/settings.png"
+   alt="Enchaînements et distances"
+   max_width="80%" %}
 
 ---
 

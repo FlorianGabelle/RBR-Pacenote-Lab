@@ -49,10 +49,10 @@
               {% assign base_path = page.url | remove_first: '/fr' | remove_first: '/en' %}
               <div class="lang-links">
                 <a href="{{ '/en' | append: base_path | relative_url }}" title="English">
-                  <img src="/assets/images/flags/gb.svg" alt="English" />
+                  <img src="{{ '/assets/images/flags/gb.svg' | relative_url }}" alt="English" />
                 </a>
                 <a href="{{ '/fr' | append: base_path | relative_url }}" title="Français">
-                  <img src="/assets/images/flags/fr.svg" alt="Français" />
+                  <img src="{{ '/assets/images/flags/fr.svg' | relative_url }}" alt="Français" />
                 </a>
               </div>
             </li>

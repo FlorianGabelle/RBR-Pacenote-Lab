@@ -3,13 +3,14 @@
 
     {% if page.lang == "en" %}
     <div class="footer-support" style="text-align: center; margin-top: 1rem;">
-      💖 <a href="/en/download/#support-this-project">Support this project</a>
+      💖 <a href="{{ '/en/download/#support-this-project' | relative_url }}">Support this project</a>
     </div>
     {% elsif page.lang == "fr" %}
     <div class="footer-support" style="text-align: center; margin-top: 1rem;">
-      💖 <a href="/fr/download/#support-this-project">Soutenir ce projet</a>
+      💖 <a href="{{ '/fr/download/#support-this-project' | relative_url }}">Soutenir ce projet</a>
     </div>
     {% endif %}
+
 
     <!-- {%- assign _site_author = site.author -%}
     {%- if _site_author.type == 'organization' -%}

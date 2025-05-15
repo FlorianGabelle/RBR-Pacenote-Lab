@@ -39,13 +39,10 @@ Cette étape finale ajoute des informations impossibles à déduire uniquement d
 
 Après avoir généré et édité vos notes, pensez à sélectionner le bon fichier dans le **Launcher RSF** pour la spéciale correspondante.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG">
-      <img src="/assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="RSF My Pacenotes" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG"
+   alt="RSF Mes Notes"
+   max_width="100%" %}
 
 
 ---

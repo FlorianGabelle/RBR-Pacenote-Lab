@@ -18,13 +18,10 @@ Lors du premier lancement de l’application, ouvrez la fenêtre de configuratio
 - **Sélectionner le fichier de configuration pacenote.ini du copilote**  
 - **Choisir la langue du copilote** si vous utilisez un copilote d'origine ou des appels legacy
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/general_settings/general_settings.PNG">
-      <img src="/assets/images/docs/fr/general_settings/general_settings.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Options générales" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/general_settings/general_settings.PNG"
+   alt="Options générales"
+   max_width="80%" %}
 
 ---
 

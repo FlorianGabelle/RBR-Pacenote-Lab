@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 5
-cover: /assets/images/docs/fr/corner_lengths/corner_lengths.png
+cover: /assets/images/docs/fr/corner_lengths/settings.png
 sidebar:
   nav: docs-fr
 ---
@@ -20,13 +20,10 @@ Les longueurs sont classées selon les catégories suivantes :
 - **Long**
 - **Très long**
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/corner_lengths/corner_lengths.png">
-      <img src="/assets/images/docs/fr/corner_lengths/corner_lengths.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Longueur des virages" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/corner_lengths/settings.png"
+   alt="Longueur des virages"
+   max_width="80%" %}
 
 ---
 

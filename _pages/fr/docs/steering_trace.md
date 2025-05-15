@@ -5,7 +5,7 @@ excerpt: "Visualisation"
 show_date: false
 lang: fr
 type: doc
-order: 14
+order: 8
 cover: /assets/images/docs/fr/steering_trace/steering_view.PNG
 sidebar:
   nav: docs-fr
@@ -16,13 +16,10 @@ Bien qu’elle puisse paraître complexe au début — notamment si vous débute
 
 Elle permet d’évaluer la qualité de votre conduite, de comprendre pourquoi un virage a été détecté d’une certaine façon, et d’ajuster vos paramètres d’analyse si nécessaire.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/steering_trace/steering_view.PNG">
-      <img src="/assets/images/docs/fr/steering_trace/steering_view.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Steering View" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/steering_trace/steering_view.PNG"
+   alt="Courbe du volant"
+   max_width="100%" %}
 
 ---
 

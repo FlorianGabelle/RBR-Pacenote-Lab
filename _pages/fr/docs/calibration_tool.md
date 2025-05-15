@@ -5,7 +5,7 @@ excerpt: "Outils Additionnels"
 show_date: false
 lang: fr
 type: doc
-order: 8
+order: 13
 cover: /assets/images/docs/fr/calibration_tool/calibration_tool.PNG
 sidebar:
   nav: docs-fr
@@ -47,4 +47,4 @@ En lisant les données du volant en temps réel via le flux de télémétrie UDP
 Une fois de retour dans le jeu :
 
 - Le **volant virtuel** affiché dans l’outil doit correspondre aux mouvements de votre volant réel.  
-- La valeur calculée doit refléter votre [plage de rotation](/fr/docs/steering_range/) correcte, à reporter dans la section **Analyse**.
+- La valeur calculée doit refléter votre **plage de rotation** correcte, à reporter dans la section **Analyse**.

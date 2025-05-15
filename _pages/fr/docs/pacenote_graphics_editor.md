@@ -5,7 +5,7 @@ excerpt: "Outils Additionnels"
 show_date: false
 lang: fr
 type: doc
-order: 7
+order: 14
 cover: /assets/images/docs/fr/pacenote_graphics_editor/default.PNG
 sidebar:
   nav: docs-fr
@@ -15,13 +15,11 @@ L’**éditeur de notes graphiques** se trouve dans la fenêtre de configuration
 
 Vous pouvez sélectionner un **package de pacenotes** via le menu déroulant **Package actuel**. Chaque package contient un ensemble d’appels utilisés par votre copilote.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/pacenote_graphics_editor/default.PNG">
-      <img src="/assets/images/docs/fr/pacenote_graphics_editor/default.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Éditeur de notes graphiques" />
-    </a>
-  </figure>
-</div>
+
+{% include image.html
+   src="/assets/images/docs/fr/pacenote_graphics_editor/default.PNG"
+   alt="Éditeur de notes graphiques"
+   max_width="80%" %}
 
 ---
 
@@ -36,13 +34,10 @@ Pour modifier ou ajouter une icône :
 > 💾 N’oubliez pas de cliquer sur **Enregistrer** après chaque modification.  
 > Chaque package doit être enregistré individuellement.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/pacenote_graphics_editor/combobox.PNG">
-      <img src="/assets/images/docs/fr/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Menu déroulant des icônes" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/pacenote_graphics_editor/combobox.PNG"
+   alt="Menu déroulant des icônes"
+   max_width="80%" %}
 
 ---
 

@@ -19,33 +19,24 @@ Les **zones volant** permettent de catégoriser les virages selon l’angle appl
 
 Cliquez sur le bouton **Ajouter une zone volant** pour définir votre première plage d’angle. Cela crée une zone initiale entre la position neutre (0°) et le seuil que vous avez choisi (par exemple: 14°). Vous pouvez attribuer des appels pour la gauche et la droite à chaque zone.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/steering_zones/first_zone.PNG">
-      <img src="/assets/images/docs/fr/steering_zones/first_zone.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Première zone" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/steering_zones/first_zone.PNG"
+   alt="Première zone"
+   max_width="80%" %}
 
 Vous pouvez ensuite ajouter d’autres zones. Par exemple, si vous définissez une nouvelle zone à 43°, elle s’étendra depuis la fin de la précédente (ex. 14°) jusqu’à 43°.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/steering_zones/second_zone.PNG">
-      <img src="/assets/images/docs/fr/steering_zones/second_zone.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Deuxième zone" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/steering_zones/second_zone.PNG"
+   alt="Deuxième zone"
+   max_width="80%" %}
 
 Vous pouvez également définir des modificateurs (ex. *plus* ou *moins*) pour ajouter de la nuance — utile si votre copilote ne les gère pas nativement. Par exemple, la deuxième zone peut être subdivisée en trois plages plus fines grâce aux modificateurs.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/steering_zones/modifier.PNG">
-      <img src="/assets/images/docs/fr/steering_zones/modifier.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Exemple de modificateur" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/steering_zones/modifier.PNG"
+   alt="Exemple de modificateur"
+   max_width="80%" %}
 
 > ✅ Recommandation : définissez vos zones principales (par exemple, de **6 à 1**) jusqu’à environ **160–180 degrés**.
 
@@ -73,27 +64,34 @@ Voici deux fichiers de zones prêts à l’emploi, basés sur mon overlay Simhub
 - Le premier est compatible avec les configurations descriptives et RBR (legacy).  
 - Le second utilise un système d’appels numériques.
 
-<a href="/assets/files/steering_zones_Descriptive_Rbr.csv" class="button button--primary--pill" download>
+<a href="{{ '/assets/files/steering_zones_Descriptive_Rbr.csv' | relative_url }}" class="button button--primary--pill" download>
   <i class="fas fa-download"></i> steering_zones_Descriptive_Rbr.csv
 </a>
 
-<a href="/assets/files/steering_zones_Numeric.csv" class="button button--primary--pill" download>
+<a href="{{ '/assets/files/steering_zones_Numeric.csv' | relative_url }}" class="button button--primary--pill" download>
   <i class="fas fa-download"></i> steering_zones_Numeric.csv
 </a>
 
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG">
-        <img src="/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG" style="width: 100%; height: auto;" alt="Mode descriptif" />
+      <a data-gallery href="{{ '/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG' | relative_url }}">
+        <img
+          src="{{ '/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG' | relative_url }}"
+          style="width: 100%; height: auto;"
+          alt="Mode descriptif" />
       </a>
       <figcaption style="text-align: center;">Descriptif / RBR</figcaption>
     </figure>
   </div>
+
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG">
-        <img src="/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG" style="width: 100%; height: auto;" alt="Mode numérique" />
+      <a data-gallery href="{{ '/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG' | relative_url }}">
+        <img
+          src="{{ '/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG' | relative_url }}"
+          style="width: 100%; height: auto;"
+          alt="Mode numérique" />
       </a>
       <figcaption style="text-align: center;">Numérique</figcaption>
     </figure>

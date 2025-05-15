@@ -20,13 +20,10 @@ Ces détections brèves peuvent être dues à :
 
 Ajuster cette valeur permet de réduire les faux positifs et d’améliorer la clarté des notes.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/minimum_corner_length/setting.PNG">
-      <img src="/assets/images/docs/fr/minimum_corner_length/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Detection Threshold Setting" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/minimum_corner_length/setting.PNG"
+   alt="Longueur minimale des virages"
+   max_width="100%" %}
 
 ---
 

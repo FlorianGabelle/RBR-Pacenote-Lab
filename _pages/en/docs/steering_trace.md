@@ -5,7 +5,7 @@ excerpt: "Visualization"
 show_date: false
 lang: en
 type: doc
-order: 14
+order: 8
 cover: /assets/images/docs/en/steering_trace/steering_view.PNG
 sidebar:
   nav: docs-en

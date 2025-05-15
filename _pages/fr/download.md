@@ -7,7 +7,7 @@ show_date: false
 ---
 
 <div class="download-center">
-  <img src="/assets/images/banner/rect_transp_400_cropped.png" alt="Bannière" />
+  <img src="{{ '/assets/images/banner/rect_transp_400_cropped.png' | relative_url }}" alt="Bannière" />
   <p>
     Version 1.0.0 — 13 mai 2025<br>
     Windows 10+ (64 bits)

@@ -34,7 +34,7 @@ docs-en:
       - title: RSF Telemetry Settings
         url: /en/docs/telemetry_settings/
 
-  - title: Configuration 
+  - title: Configuration
     children:
       - title: General Settings
         url: /en/docs/general_settings/
@@ -45,12 +45,12 @@ docs-en:
       - title: Links and Distances
         url: /en/docs/links_and_distances/
 
-  - title: Additional Tools
+  - title: Visualization
     children:
-    - title: Pacenote Graphics Editor
-      url: /en/docs/pacenote_graphics_editor/
-    - title: Calibration Tool
-      url: /en/docs/calibration_tool/
+      - title: Stage Map
+        url: /en/docs/stage_map/
+      - title: Steering Trace
+        url: /en/docs/steering_trace/
 
   - title: Analysis Settings
     children:
@@ -63,12 +63,12 @@ docs-en:
       - title: Pacenote Offset
         url: /en/docs/pacenote_offset/
 
-  - title: Visualization
+  - title: Additional Tools
     children:
-      - title: Stage Map
-        url: /en/docs/stage_map/
-      - title: Steering Trace
-        url: /en/docs/steering_trace/
+    - title: Calibration Tool
+      url: /en/docs/calibration_tool/
+    - title: Pacenote Graphics Editor
+      url: /en/docs/pacenote_graphics_editor/
 
   - title: Pacenotes
     children:
@@ -97,12 +97,12 @@ docs-fr:
       - title: Enchaînements et distances
         url: /fr/docs/links_and_distances/
 
-  - title: Outils additionels
-    children:  
-      - title: Éditeur de notes graphiques
-        url: /fr/docs/pacenote_graphics_editor/
-      - title: Calibration du volant
-        url: /fr/docs/calibration_tool/
+  - title: Visualisation
+    children:
+      - title: Carte de la spéciale
+        url: /fr/docs/stage_map/
+      - title: Courbe du volant
+        url: /fr/docs/steering_trace/
 
   - title: Paramètres d'analyse
     children:
@@ -115,12 +115,12 @@ docs-fr:
       - title: Avance/retard des notes
         url: /fr/docs/pacenote_offset/
 
-  - title: Visualisation
+  - title: Outils additionels
     children:
-      - title: Carte de la spéciale
-        url: /fr/docs/stage_map/
-      - title: Courbe du volant
-        url: /fr/docs/steering_trace/
+      - title: Calibration du volant
+        url: /fr/docs/calibration_tool/
+      - title: Éditeur de notes graphiques
+        url: /fr/docs/pacenote_graphics_editor/
 
   - title: Pacenotes
     children:

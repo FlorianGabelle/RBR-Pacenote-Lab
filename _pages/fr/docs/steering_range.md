@@ -18,13 +18,10 @@ L’objectif est simple :
 
 Cette correspondance 1:1 permet des mesures précises et reproductibles — essentielles pour générer des notes cohérentes.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/fr/steering_range/setting.PNG">
-      <img src="/assets/images/docs/fr/steering_range/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Plage de rotation" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/fr/steering_range/setting.PNG"
+   alt="Plage de rotation"
+   max_width="100%" %}
 
 ---
 
@@ -38,4 +35,4 @@ Cette correspondance 1:1 permet des mesures précises et reproductibles — esse
 Si vous avez un doute ou souhaitez vérifier votre configuration, utilisez l’outil de calibration inclus dans l’application. Il vous aide à détecter la plage correcte à l’aide de la télémétrie en temps réel.
 
 
-Pour plus de détails, consultez la page [Outil de calibration](/fr/docs/calibration_tool/).
+Pour plus de détails, consultez la page **Outil de calibration**.

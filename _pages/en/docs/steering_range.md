@@ -33,4 +33,4 @@ This one-to-one match provides precise, repeatable steering measurements — ess
 
 If you're unsure or want to verify your setup, use the calibration tool included in the application. It helps fine-tune the correct range using live telemetry.
 
-For detailed instructions, see the [Calibration tool](/en/docs/calibration_tool/) page.
+For detailed instructions, see the **Calibration tool** page.
