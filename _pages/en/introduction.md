@@ -134,7 +134,7 @@ Planned additions:
 
 {% include image.html
    src="/assets/images/docs/en/introduction/steering.png"
-   alt="Steering View""
+   alt="Steering View"
    max_width="100%" %}
 
 ---
