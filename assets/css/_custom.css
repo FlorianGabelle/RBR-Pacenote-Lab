@@ -157,3 +157,10 @@
   height: 1.3rem;
   vertical-align: middle;
 }
+
+/* Hamburger button */
+
+.sidebar-button {
+  background-color: #FF9500;  /* background color of the button */
+  color: #202020;             /* color of the hamburger icon */
+}
