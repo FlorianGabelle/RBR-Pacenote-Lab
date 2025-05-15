@@ -50,4 +50,4 @@ By reading live steering data from the UDP telemetry stream, the tool compares y
 Once you're back in the game window:
 
 - The **virtual steering wheel** in the calibration tool should match your physical wheel.
-- The computed value should reflect your correct [steering range](/en/steering_range/), and this value should be used in the **analysis** section.
+- The computed value should reflect your correct [steering range](/en/docs/steering_range/), and this value should be used in the **analysis** section.

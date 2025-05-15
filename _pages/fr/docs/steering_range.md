@@ -16,7 +16,7 @@ Pour garantir que l’**angle de rotation du volant** en jeu corresponde à la r
 L’objectif est simple :  
 **Un degré en jeu = un degré sur votre volant**
 
-Cette correspondance 1:1 permet des mesures précises et reproductibles — essentielles pour générer des pacenotes cohérents.
+Cette correspondance 1:1 permet des mesures précises et reproductibles — essentielles pour générer des notes cohérentes.
 
 <div class="cell cell--12 cell--md-6">
   <figure>
@@ -38,4 +38,4 @@ Cette correspondance 1:1 permet des mesures précises et reproductibles — esse
 Si vous avez un doute ou souhaitez vérifier votre configuration, utilisez l’outil de calibration inclus dans l’application. Il vous aide à détecter la plage correcte à l’aide de la télémétrie en temps réel.
 
 
-Pour plus de détails, consultez la page [Outil de calibration](/fr/calibration_tool/).
+Pour plus de détails, consultez la page [Outil de calibration](/fr/docs/calibration_tool/).

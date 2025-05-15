@@ -50,4 +50,4 @@ En lisant les données du volant en temps réel via le flux de télémétrie UDP
 Une fois de retour dans le jeu :
 
 - Le **volant virtuel** affiché dans l’outil doit correspondre aux mouvements de votre volant réel.  
-- La valeur calculée doit refléter votre [plage de rotation](/fr/steering_range/) correcte, à reporter dans la section **Analyse**.
+- La valeur calculée doit refléter votre [plage de rotation](/fr/docs/steering_range/) correcte, à reporter dans la section **Analyse**.

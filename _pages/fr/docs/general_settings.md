@@ -28,4 +28,4 @@ Lors du premier lancement de l’application, ouvrez la fenêtre de configuratio
 
 ---
 
-> ⚠️ L’analyse et l’attribution des pacenotes ne sont possibles que si le chemin de l’exécutable et le fichier de configuration sont définis.
+> ⚠️ L’analyse et l’attribution des appels du copilote ne sont possibles que si le chemin de l’exécutable et le fichier de configuration sont définis.

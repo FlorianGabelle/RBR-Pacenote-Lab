@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Export du fichier de pacenotes"
+title: "Export du fichier pacenotes"
 excerpt: "Pacenotes"
 show_date: false
 lang: fr
@@ -37,7 +37,7 @@ Cette étape finale ajoute des informations impossibles à déduire uniquement d
 
 ### ✅ Dernière étape : sélection dans RSF
 
-Après avoir généré et édité vos pacenotes, pensez à sélectionner le bon fichier dans le **Launcher RSF** pour la spéciale correspondante.
+Après avoir généré et édité vos notes, pensez à sélectionner le bon fichier dans le **Launcher RSF** pour la spéciale correspondante.
 
 <div class="cell cell--12 cell--md-6">
   <figure>

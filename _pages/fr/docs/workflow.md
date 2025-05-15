@@ -6,46 +6,57 @@ show_date: false
 lang: fr
 type: doc
 order: 1
-cover: /assets/images/ui/en/corner_lengths.png
+cover: /assets/images/docs/fr/recce.png
 sidebar:
   nav: docs-fr
 ---
 
-Une fois l'application installée et configurée selon vos préférences, suivez ces étapes pour créer et affiner vos pacenotes :
+<p>Une fois l'application installée et configurée selon vos préférences, suivez ces étapes pour créer et affiner vos notes :</p>
 
-1. **Effectuez la reconnaissance**  
-   Réalisez un premier passage de reconnaissance sur la spéciale.  
-   - Restez **au centre de la route**  
-   - Adoptez une **vitesse lente et régulière**  
-   - Utilisez des **mouvements de volant fluides**, car ils déterminent la qualité des données  
-   - Évitez de charger les pneus avant — prenez les virages lentement pour limiter les distorsions dans la détection
+<ol>
+  <li>
+    <strong>Effectuez la reconnaissance</strong><br>
+    Réalisez un premier passage de reconnaissance sur la spéciale.
+    <ul>
+      <li>Restez <strong>au centre de la route</strong></li>
+      <li>Adoptez une <strong>vitesse lente et régulière</strong></li>
+      <li>Utilisez des <strong>mouvements de volant fluides</strong>, car ils déterminent la qualité des données</li>
+      <li>Évitez de charger les pneus avant — prenez les virages lentement pour limiter les distorsions dans la détection</li>
+    </ul>
+    {% include video.html src="/assets/videos/recce.mp4" %}
+  </li>
+  <br>
 
-2. **Enregistrez votre reco** (optionnel) avec **RBR Roadbook** et **OBS**  
-   Une capture vidéo peut faciliter l’édition et la relecture des pacenotes.
+  <li>
+    <strong>Importez le fichier de télémétrie et analysez les données</strong><br>
+    Chargez les données enregistrées dans l'application pour les analyser.  
+    L’outil traite les données pour détecter les virages et générer les métriques associées.
 
-3. **Importez le fichier de télémétrie**  
-   Chargez les données enregistrées dans l'application pour les analyser.
+    {% include video.html src="/assets/videos/import.mp4" %}
+  </li>
+  <br>
 
-4. **Analysez les données**  
-   L’outil traite les données pour détecter les virages et générer les métriques associées.
+  <li>
+    <strong>Exportez le fichier pacenotes</strong><br>
+    Enregistrez le fichier pacenotes dans le dossier correspondant à la spéciale.
+    {% include video.html src="/assets/videos/export.mp4" %}
+  </li>
+  <br>
 
-5. *(Optionnel)* **Ajustez les paramètres d’analyse et relancez l’analyse**  
-   Affinez des paramètres comme le seuil de détection, le filtrage des virages ou le placement des notes.  
-   Relancez l’analyse après chaque changement pour comparer les résultats.
+  <li>
+    <strong>(Optionnel mais fortement recommandé) Affinez vos notes dans RBR Roadbook</strong><br>
+    Enrichissez vos notes en y ajoutant des informations essentielles, telles que les obstacles, les particularités du profil de la spéciale, ou encore les virages à rayon variable (resserre).
+    {% include video.html src="/assets/videos/edit.mp4" %}
+  </li>
+  <br>
 
-6. **Exportez le fichier de pacenotes**  
-   Enregistrez les pacenotes dans le dossier correspondant à la spéciale.
+  <li>
+    <strong>Sélectionnez le fichier pacenotes dans RSF</strong><br>
+    Choisissez le fichier finalisé dans le <strong>Launcher RSF</strong> pour l’utiliser pendant la spéciale.
+    {% include video.html src="/assets/videos/rsf_my_pacenotes.mp4" %}
+  </li>
+</ol>
 
-7. **Importez le fichier dans RBR Roadbook**  
-   Chargez le fichier exporté pour effectuer des modifications.
-
-8. **Effectuez une deuxième reconnaissance** avec des notes audio  
-   Utilisez **RBR Roadbook** pour ajouter des ajustements en conduisant et en dictant les changements.
-
-9. **Faites une édition finale**  
-   Relisez et ajustez les pacenotes pour garantir leur précision et leur cohérence.
-
-10. **Sélectionnez le fichier dans RSF**  
-    Choisissez le fichier finalisé dans le **Launcher RSF** pour l’utiliser pendant la spéciale.
-
-> ✅ Ce processus combine analyse automatique et ajustements manuels pour produire un ensemble de notes fiable et personnalisé.
+<blockquote>
+✅ Ce processus combine analyse automatique et ajustements manuels pour produire un ensemble de notes fiable et personnalisé.
+</blockquote>

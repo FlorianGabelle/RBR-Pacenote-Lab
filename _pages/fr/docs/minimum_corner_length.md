@@ -18,7 +18,7 @@ Ces détections brèves peuvent être dues à :
 - Du bruit dans le signal
 - Des mouvements de volant brusques ou involontaires
 
-Ajuster cette valeur permet de réduire les faux positifs et d’améliorer la clarté des pacenotes.
+Ajuster cette valeur permet de réduire les faux positifs et d’améliorer la clarté des notes.
 
 <div class="cell cell--12 cell--md-6">
   <figure>

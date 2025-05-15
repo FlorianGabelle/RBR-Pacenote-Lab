@@ -51,8 +51,8 @@ Pour modifier ou ajouter une icône :
 Le système de graphiques personnalisés repose sur deux éléments :
 
 1. Les fichiers de package du copilote modifiés  
-2. Les indicateurs (flags) dans le fichier de pacenotes associé à la spéciale
+2. Les indicateurs (flags) dans le fichier pacenotes associé à la spéciale
 
 Pour que les icônes s’affichent correctement en jeu, vous devez :
-- Générer le fichier de pacenotes via *RBR Pacenote Lab*, ou  
+- Générer le fichier pacenotes via *RBR Pacenote Lab*, ou  
 - Importer puis réexporter vos fichiers existants via *RBR Roadbook*, après avoir mis à jour les fichiers package avec cet outil

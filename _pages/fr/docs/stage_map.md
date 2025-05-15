@@ -11,7 +11,7 @@ sidebar:
   nav: docs-fr
 ---
 
-La **carte de la spéciale** est l’outil principal pour évaluer la qualité de vos réglages de génération de pacenotes.
+La **carte de la spéciale** est l’outil principal pour évaluer la qualité de vos réglages de génération de notes.
 
 Elle offre une vue claire et précise des données, et de leur correspondance avec le tracé réel de la spéciale.
 

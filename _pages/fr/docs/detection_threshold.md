@@ -56,6 +56,6 @@ Selon votre usage :
 - Augmentez-la légèrement pour réduire les faux positifs ou le bruit de signal
 
 Au fur et à mesure que vous prenez en main l’outil, vous pouvez essayer de baisser le seuil pour affiner la détection.  
-Cependant, cela peut nécessiter d’ajuster d’autres paramètres comme les distances et enchaînements, le filtrage des virages ou le placement des pacenotes pour conserver un bon niveau de qualité.
+Cependant, cela peut nécessiter d’ajuster d’autres paramètres comme les distances et enchaînements, le filtrage des virages ou le placement des notes pour conserver un bon niveau de qualité.
 
 > 📌 Remarque : les données brutes du volant sont prétraitées — elles sont sous-échantillonnées et filtrées pour réduire le bruit autour du seuil et améliorer les performances.
