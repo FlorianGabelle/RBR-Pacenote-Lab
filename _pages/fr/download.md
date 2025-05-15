@@ -8,7 +8,7 @@ show_date: false
 
 <div class="download-center">
   {% include image.html
-    src="/assets/images/banner/rect_transp_400_cropped.PNG"
+    src="{{ '/assets/images/banner/rect_transp_400_cropped.PNG' | relative_url }}"
     alt="Bannière"
     max_width="100%" %}
   <p>
