@@ -6354,4 +6354,9 @@ html,
   color: #202020; /* color of the hamburger icon */
 }
 
+/* Disable wrap in header (for "A Propos" navigation item) */
+.navigation__item a {
+  white-space: nowrap;
+}
+
 /*# sourceMappingURL=main.css.map */
