@@ -36,7 +36,7 @@ timezone: Europe/Helsinki # see https://en.wikipedia.org/wiki/List_of_tz_databas
 author:
   type      : person # "person" (default), "organization"
   name      : Florian Gabelle
-  url       :
+  url       : 
   avatar    : /assets/images/logo/logo.png # path or url of avatar image (square)
   bio       : # I am an amazing person.
   email     : # RBR.Pacenote.Lab@gmail.com
