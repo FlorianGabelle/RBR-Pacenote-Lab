@@ -18,13 +18,10 @@ The goal is simple:
 
 This one-to-one match provides precise, repeatable steering measurements — essential for generating consistent corner pacenotes.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/steering_range/setting.PNG">
-      <img src="/assets/images/docs/en/steering_range/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Steering Range Setting" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/steering_range/setting.PNG"
+   alt="Steering Range Setting"
+   max_width="100%" %}
 
 ---
 

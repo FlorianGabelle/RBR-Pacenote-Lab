@@ -11,7 +11,7 @@ show_date: false
     <!-- Spam protection -->
     <input type="hidden" name="_honey" style="display:none">
     <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="http://127.0.0.1:4000/en/thank_you/">
+    <input type="hidden" name="_next" value="{{ '/en/thank_you/' | relative_url }}">
 
     <label for="name">Full Name:</label>
     <input type="text" name="name" id="name" required>

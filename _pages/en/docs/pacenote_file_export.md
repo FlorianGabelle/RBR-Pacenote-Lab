@@ -39,13 +39,10 @@ This final step adds information that can’t be derived from telemetry but impr
 
 After generating and editing your pacenotes, make sure to select the correct file in **RSF Launcher** for the stage you completed your recce on.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/pacenote_file_export/rsf_my_pacenotes.PNG">
-      <img src="/assets/images/docs/en/pacenote_file_export/rsf_my_pacenotes.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="RSF My Pacenotes" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/pacenote_file_export/rsf_my_pacenotes.PNG"
+   alt="RSF My Pacenotes"
+   max_width="100%" %}
 
 ---
 

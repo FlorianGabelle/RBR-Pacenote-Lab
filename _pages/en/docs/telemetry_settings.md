@@ -29,10 +29,7 @@ For the calibration tool, use these settings:
 
 ---
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/telemetry_settings/rsf_telemetry_settings.png">
-      <img src="/assets/images/docs/en/telemetry_settings/rsf_telemetry_settings.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="RSF Telemetry Settings" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/rsf_telemetry_settings.png"
+   alt="RSF Telemetry Settings"
+   max_width="100%" %}

@@ -15,13 +15,10 @@ The **stage map** is the primary tool for evaluating the quality of your pacenot
 
 It gives you a clear, accurate visual of the data and how it maps to the stage.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/stage_map/map_view.PNG">
-      <img src="/assets/images/docs/en/stage_map/map_view.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Map View" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/stage_map/map_view.PNG"
+   alt="Map View"
+   max_width="100%" %}
 
 ---
 

@@ -15,13 +15,10 @@ The pacenote graphics editor is located in the configuration window. It allows y
 
 You can select a pacenote package using the **Current package** dropdown. Each package defines a set of pacenote calls used by your co-driver.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/pacenote_graphics_editor/default.PNG">
-      <img src="/assets/images/docs/en/pacenote_graphics_editor/default.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Pacenote Graphics Editor" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/pacenote_graphics_editor/default.PNG"
+   alt="Pacenote Graphics Editor"
+   max_width="80%" %}
 
 ---
 
@@ -36,13 +33,10 @@ To override or add a pacenote graphic:
 > 💾 Don’t forget to click **Save** after making changes.  
 > Each package must be saved individually.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/pacenote_graphics_editor/combobox.PNG">
-      <img src="/assets/images/docs/en/pacenote_graphics_editor/combobox.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Graphics Selection Dropdown" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/pacenote_graphics_editor/combobox.PNG"
+   alt="Graphics Selection Dropdown"
+   max_width="80%" %}
 
 ---
 

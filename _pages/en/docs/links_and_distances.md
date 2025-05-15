@@ -16,13 +16,10 @@ This section allows you to configure two key features:
 - **Corner links** (e.g., *"into"*, *"and"*)
 - **Distance calls**
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/links_and_distances/settings.png">
-      <img src="/assets/images/docs/en/links_and_distances/settings.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Links and Distances Settings" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/links_and_distances/settings.png"
+   alt="Links and Distances Settings"
+   max_width="80%" %}
 
 ---
 

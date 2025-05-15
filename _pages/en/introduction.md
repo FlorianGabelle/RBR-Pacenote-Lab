@@ -27,13 +27,10 @@ Generated pacenotes include:
 - Distance calls — optional straight-line markers
 - Stage tags — *Start*, *Split*, *Finish*, *End_of_track*
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/introduction/main_window.PNG">
-      <img src="/assets/images/docs/en/introduction/main_window.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Main window" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/introduction/main_window.PNG"
+   alt="Main window"
+   max_width="100%" %}
 
 You can fine-tune output using:
 
@@ -75,18 +72,25 @@ The steering zone system lets you control how turns are interpreted:
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/docs/en/introduction/steering_zones_numeric.PNG">
-        <img src="/assets/images/docs/en/introduction/steering_zones_numeric.PNG" style="width: 100%; height: auto;" alt="Steering Zones - Numeric" />
+      <a data-gallery href="{{ '/assets/images/docs/en/introduction/steering_zones_descriptive.PNG' | relative_url }}">
+        <img
+          src="{{ '/assets/images/docs/en/introduction/steering_zones_descriptive.PNG' | relative_url }}"
+          style="width: 100%; height: auto;"
+          alt="Descriptive" />
       </a>
-      <figcaption style="text-align: center;">Numeric</figcaption>
+      <figcaption style="text-align: center;">Descriptive / Rbr</figcaption>
     </figure>
   </div>
+
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="/assets/images/docs/en/introduction/steering_zones_descriptive.PNG">
-        <img src="/assets/images/docs/en/introduction/steering_zones_descriptive.PNG" style="width: 100%; height: auto;" alt="Steering Zones - Descriptive" />
+      <a data-gallery href="{{ '/assets/images/docs/en/introduction/steering_zones_numeric.PNG' | relative_url }}">
+        <img
+          src="{{ '/assets/images/docs/en/introduction/steering_zones_numeric.PNG' | relative_url }}"
+          style="width: 100%; height: auto;"
+          alt="Numeric" />
       </a>
-      <figcaption style="text-align: center;">Descriptive</figcaption>
+      <figcaption style="text-align: center;">Numeric</figcaption>
     </figure>
   </div>
 </div>
@@ -99,25 +103,19 @@ The steering zone system lets you control how turns are interpreted:
 
 Customize how each call appears on the stage map and in-game — including 2D and 3D icons. Personalize visuals to match your style.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/introduction/pacenote_graphics_editor.PNG">
-      <img src="/assets/images/docs/en/introduction/pacenote_graphics_editor.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Pacenote Graphics Editor" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/introduction/pacenote_graphics_editor.PNG"
+   alt="Pacenote Graphics Editor"
+   max_width="80%" %}
 
 ### Calibration tool
 
 Test and calibrate your setup using live steering angle data from your simulator.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/calibration_tool/calibration_tool.PNG">
-      <img src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG" style="display: block; margin: 0 auto; max-width: 50%;" alt="Calibration Tool" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG"
+   alt="Calibration Tool"
+   max_width="50%" %}
 
 ---
 
@@ -134,13 +132,10 @@ Planned additions:
 - Accelerometer
 - Gyroscope
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/introduction/steering.png">
-      <img src="/assets/images/docs/en/introduction/steering.png" style="display: block; margin: 0 auto; max-width: 100%;" alt="Steering View" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/introduction/steering.png"
+   alt="Steering View""
+   max_width="100%" %}
 
 ---
 

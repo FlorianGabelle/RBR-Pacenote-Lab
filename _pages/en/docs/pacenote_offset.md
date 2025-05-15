@@ -19,13 +19,10 @@ The offset is a distance value in meters:
 - A **negative value** moves the pacenote earlier (before the corner)
 - A **positive value** places it further into the corner
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/pacenote_offset/setting.PNG">
-      <img src="/assets/images/docs/en/pacenote_offset/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Pacenote Offset Setting" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/pacenote_offset/setting.PNG"
+   alt="Pacenote Offset Setting"
+   max_width="80%" %}
 
 ---
 

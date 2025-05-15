@@ -20,13 +20,10 @@ Corner length is categorized as:
 - **Long**
 - **Very long**
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/corner_lengths/settings.png">
-      <img src="/assets/images/docs/en/corner_lengths/settings.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Corner Length Settings" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/corner_lengths/settings.png"
+   alt="Corner Length Settings"
+   max_width="80%" %}
 
 ---
 

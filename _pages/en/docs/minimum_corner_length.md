@@ -20,13 +20,10 @@ These brief detections can be caused by:
 
 Adjusting this value helps remove false positives and improve the clarity of your pacenotes.
 
-<div class="cell cell--12 cell--md-6">
-  <figure>
-    <a data-gallery href="/assets/images/docs/en/minimum_corner_length/setting.PNG">
-      <img src="/assets/images/docs/en/minimum_corner_length/setting.PNG" style="display: block; margin: 0 auto; max-width: 100%;" alt="Detection Threshold Setting" />
-    </a>
-  </figure>
-</div>
+{% include image.html
+   src="/assets/images/docs/en/minimum_corner_length/setting.PNG"
+   alt="Minimum Corner Length Setting"
+   max_width="100%" %}
 
 ---
 
