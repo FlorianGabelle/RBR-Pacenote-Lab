@@ -5,7 +5,7 @@ lang: en
 show_date: false
 ---
 
-**RBR Pacenote Lab** is a data-driven tool for generating fully customizable co-driver pacenotes for *Richard Burns Rally*. It offers precision, flexibility, and full compatibility with various co-driver systems.
+**RBR Pacenote Lab** is a data-driven tool for generating fully customizable co-driver pacenotes for the *Richard Burns Rally* simulator. It offers precision, flexibility, and full compatibility with any co-driver system.
 
 Save up to 75% of your time — if creating notes for a 15 km stage used to take over 2 hours, expect to finish in just 30–45 minutes.
 
@@ -38,6 +38,26 @@ You can fine-tune output using:
 - Adjustable steering thresholds
 - Filters to ignore small or irrelevant corners
 
+---
+
+## 📈 Data analysis engine
+
+Currently supports:
+
+- Steering input
+- Odometer
+- GPS
+
+Planned additions:
+
+- Accelerometer
+- Gyroscope
+
+{% include image.html
+   src="/assets/images/docs/en/introduction/steering.PNG"
+   alt="Steering View"
+   max_width="100%" %}
+   
 ---
 
 ## 🎙 Co-driver compatibility
@@ -116,26 +136,6 @@ Test and calibrate your setup using live steering angle data from your simulator
    src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG"
    alt="Calibration Tool"
    max_width="50%" %}
-
----
-
-## 📈 Data analysis engine
-
-Currently supports:
-
-- Steering input
-- Odometer
-- GPS
-
-Planned additions:
-
-- Accelerometer
-- Gyroscope
-
-{% include image.html
-   src="/assets/images/docs/en/introduction/steering.PNG"
-   alt="Steering View"
-   max_width="100%" %}
 
 ---
 

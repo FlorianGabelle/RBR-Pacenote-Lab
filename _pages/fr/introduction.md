@@ -5,7 +5,7 @@ lang: fr
 show_date: false
 ---
 
-**RBR Pacenote Lab** est un outil basé sur les données, conçu pour générer des pacenotes copilote entièrement personnalisables pour *Richard Burns Rally*. Il offre précision, flexibilité et compatibilité totale avec différents systèmes de copilote.
+**RBR Pacenote Lab** est un outil basé sur les données, conçu pour générer des pacenotes copilote entièrement personnalisables pour le simulateur *Richard Burns Rally*. Il offre précision, flexibilité et compatibilité totale avec tous les systèmes de copilote.
 
 Gagnez jusqu’à 75 % de temps — si créer des notes pour une spéciale de 15 km vous prenait plus de 2 heures, attendez-vous à terminer en 30–45 minutes.
 
@@ -37,6 +37,26 @@ Vous pouvez affiner le résultat avec :
 - Des distances personnalisées pour le placement
 - Des seuils de détection d'angle du volant ajustables
 - Des filtres pour ignorer les virages mineurs ou non pertinents
+
+---
+
+## 📈 Moteur d’analyse des données
+
+Actuellement compatible avec :
+
+- Angle du volant
+- Compteur kilométrique
+- GPS
+
+Fonctionnalités prévues :
+
+- Accéléromètre
+- Gyroscope
+
+{% include image.html
+   src="/assets/images/docs/fr/introduction/steering.PNG"
+   alt="Courbe du volant"
+   max_width="100%" %}
 
 ---
 
@@ -124,27 +144,6 @@ Testez et calibrez votre configuration à l’aide des données de rotation du v
    src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG"
    alt="Outil de calibration"
    max_width="50%" %}
-
-
----
-
-## 📈 Moteur d’analyse des données
-
-Actuellement compatible avec :
-
-- Angle du volant
-- Compteur kilométrique
-- GPS
-
-Fonctionnalités prévues :
-
-- Accéléromètre
-- Gyroscope
-
-{% include image.html
-   src="/assets/images/docs/fr/introduction/steering.PNG"
-   alt="Courbe du volant"
-   max_width="100%" %}
 
 ---
 
