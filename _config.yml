@@ -22,7 +22,7 @@ url     : https://floriangabelle.github.io # the base hostname & protocol for yo
 baseurl : /RBR-Pacenote-Lab # does not include hostname
 title   : RBR Pacenote Lab
 description: > # this means to ignore newlines until "Language & timezone"
-  Online documentation for the RBR Pacenote Lab application
+  Tools and online documentation for rally recce experts.
 
 
 ## => Language and Timezone
