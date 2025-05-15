@@ -161,8 +161,8 @@
 /* Hamburger button */
 
 .sidebar-button {
-  background-color: #FFB000;  /* background color of the button */
-  color: #202020;             /* color of the hamburger icon */
+  background-color: #202020;  /* background color of the button */
+  color: #FFB000;             /* color of the hamburger icon */
 }
 
 /* Disable wrap in header (for "A Propos" navigation item) */
