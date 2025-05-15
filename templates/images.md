@@ -31,19 +31,4 @@
   </figure>
 </div>
 
-# New format :
-
-{% include image.html
-   src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG"
-   alt="Outil de calibration"
-   max_width="50%" %}
-
-OR with caption
-
-{% include image.html
-   src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG"
-   alt="Outil de calibration"
-   max_width="50%"
-   caption="Outil de calibration – ajustement du volant" %}
-
 
