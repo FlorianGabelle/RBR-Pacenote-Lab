@@ -15,10 +15,10 @@ The application calculates corner length using telemetry data.
 
 Corner length is categorized as:
 
-- **Short**
-- **Normal** (no call)
-- **Long**
-- **Very long**
+- Short
+- Normal (no call)
+- Long
+- Very long
 
 {% include image.html
    src="/assets/images/docs/en/corner_lengths/settings.PNG"
@@ -31,9 +31,9 @@ Corner length is categorized as:
 
 For each category, you can:
 
-- Enable or disable it
-- Set its length threshold
-- Assign a custom pacenote call
+- **Enable** or disable it
+- Set its length **threshold**
+- Assign a custom **pacenote** call
 
 ---
 

@@ -18,9 +18,9 @@ sidebar:
     <strong>Effectuez la reconnaissance</strong><br>
     Réalisez un premier passage de reconnaissance sur la spéciale.
     <ul>
-      <li>Restez <strong>au centre de la route</strong></li>
-      <li>Adoptez une <strong>vitesse lente et régulière</strong></li>
-      <li>Utilisez des <strong>mouvements de volant fluides</strong>, car ils déterminent la qualité des données</li>
+      <li>Restez au centre de la route</li>
+      <li>Adoptez une vitesse lente et régulière</li>
+      <li>Utilisez des mouvements de volant fluides, car ils déterminent la qualité des données</li>
       <li>Évitez de charger les pneus avant — prenez les virages lentement pour limiter les distorsions dans la détection</li>
     </ul>
     {% include video.html src="/assets/videos/recce.mp4" %}

@@ -29,8 +29,8 @@ The detection threshold is a key analysis parameter. It affects several aspects 
 
 Reducing the threshold will:
 
-- Allow detection of corners with smaller amplitudes (e.g., fast, sweeping turns)
-- Result in longer measured corner lengths, which may reduce precision
+- Allow detection of corners with **smaller** amplitudes (e.g., fast, sweeping turns)
+- Result in **longer** measured corner lengths, which may reduce precision
 
 ---
 
@@ -38,8 +38,8 @@ Reducing the threshold will:
 
 Raising the threshold will:
 
-- Filter out subtle steering changes by ignoring low-amplitude inputs
-- Improve separation between corners, creating clearer individual detections
+- Filter out subtle steering changes by **ignoring** low-amplitude inputs
+- Improve **separation** between corners, creating clearer individual detections
 
 ---
 
@@ -49,8 +49,8 @@ The default value of **10 degrees** offers a balanced compromise with the standa
 
 Depending on your use case:
 
-- Lower the value to increase sensitivity and detect more corners
-- Raise the value slightly to reduce false positives or signal noise
+- **Lower** the value to increase sensitivity and detect more corners
+- **Raise** the value slightly to reduce false positives or signal noise
 
 As you become more familiar with the tool and its behavior, you can experiment with lowering the threshold to increase sensitivity.  
 However, doing so may require fine-tuning your distance, corner filtering and pacenote offset settings to maintain output quality.

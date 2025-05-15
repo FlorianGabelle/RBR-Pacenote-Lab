@@ -13,10 +13,10 @@ sidebar:
 
 Pour activer l’analyse et générer les pacenotes, assurez-vous que les paramètres RSF suivants sont définis :
 
-- **Enregistrer les données télémétriques dans un fichier** : `Activé`  
-- **Intervalle de mise à jour** : `5`  
-- **Position de la voiture en spéciale** : `Activé`  
-- **Keep only MoTeC files** : `Désactivé`
+- Enregistrer les données télémétriques dans un fichier : `Activé`  
+- Intervalle de mise à jour : `5`  
+- Position de la voiture en spéciale : `Activé`  
+- Keep only MoTeC files : `Désactivé`
 
 > ⚠️ Ces paramètres sont susceptibles d’évoluer dans les prochaines versions, à mesure que de nouveaux capteurs seront pris en charge par le moteur d’analyse.
 
@@ -24,8 +24,8 @@ Pour activer l’analyse et générer les pacenotes, assurez-vous que les param�
 
 Pour utiliser l’**outil de calibration**, appliquez ces réglages :
 
-- **Télémétrie UDP** : `Activé`  
-- **127.0.0.1:6776**
+- Télémétrie UDP : `Activé`  
+- 127.0.0.1:6776
 
 ---
 

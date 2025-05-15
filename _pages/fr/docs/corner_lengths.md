@@ -11,14 +11,14 @@ sidebar:
   nav: docs-fr
 ---
 
-L’application calcule la **longueur des virages** à partir des données de télémétrie.
+L’application calcule la longueur des virages à partir des données de télémétrie.
 
 Les longueurs sont classées selon les catégories suivantes :
 
-- **Court**
-- **Normal** (aucun appel)
-- **Long**
-- **Très long**
+- Court
+- Normal (aucun appel)
+- Long
+- Très long
 
 {% include image.html
    src="/assets/images/docs/fr/corner_lengths/settings.PNG"
@@ -31,9 +31,9 @@ Les longueurs sont classées selon les catégories suivantes :
 
 Pour chaque catégorie, vous pouvez :
 
-- L’activer ou la désactiver  
-- Définir son seuil de longueur  
-- Attribuer un appel personnalisé
+- L’**activer** ou la désactiver  
+- Définir son **seuil** de longueur  
+- Attribuer un **appel** personnalisé
 
 ---
 

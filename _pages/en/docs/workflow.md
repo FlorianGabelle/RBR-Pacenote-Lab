@@ -18,9 +18,9 @@ sidebar:
     <strong>Drive the recce</strong><br>
     Perform your initial reconnaissance run on the stage.
     <ul>
-      <li>Drive in the <strong>middle of the road</strong></li>
-      <li>Maintain a <strong>slow, steady speed</strong></li>
-      <li>Use <strong>smooth steering inputs</strong>, as they define the quality of the data</li>
+      <li>Drive in the middle of the road</li>
+      <li>Maintain a slow, steady speed</li>
+      <li>Use smooth steering inputs, as they define the quality of the data</li>
       <li>Avoid loading the front tires — take corners slowly to reduce distortion in corner detection</li>
     </ul>
     {% include video.html src="/assets/videos/recce.mp4" %}

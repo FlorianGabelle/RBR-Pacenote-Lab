@@ -27,10 +27,10 @@ This one-to-one match provides precise, repeatable steering measurements — ess
 
 ### ⚙️ Configuration
 
-- If **"Adjust steering wheel range per car"** is enabled in RSF Launcher, use the **car's steering angle value**.
-- If you're using **"Steering wheel lock-to-lock rotation"** in the *My Cars* section along with **"Adjust steering wheel range per car"**, use the **custom value you've set to override the NGP default**.
-- If **neither setting is enabled**, use your **wheel base’s steering range value**.
+- If `"Adjust steering wheel range per car"` is enabled in RSF Launcher, use the car's steering angle value.
+- If you're using `"Steering wheel lock-to-lock rotation"` in the *My Cars* section along with `"Adjust steering wheel range per car"`, use the custom value you've set to override the NGP default.
+- If neither setting is enabled, use your wheel base’s steering range value.
 
 If you're unsure or want to verify your setup, use the calibration tool included in the application. It helps fine-tune the correct range using live telemetry.
 
-For detailed instructions, see the **Calibration tool** page.
+For detailed instructions, see the [Calibration tool]({{ "/en/docs/calibration_tool/" | relative_url }}) page.

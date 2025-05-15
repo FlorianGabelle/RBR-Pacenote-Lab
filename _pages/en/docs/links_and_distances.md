@@ -13,8 +13,8 @@ sidebar:
 
 This section allows you to configure two key features:
 
-- **Corner links** (e.g., *"into"*, *"and"*)
-- **Distance calls**
+- Corner links (e.g., *"into"*, *"and"*)
+- Distance calls
 
 {% include image.html
    src="/assets/images/docs/en/links_and_distances/settings.PNG"
@@ -25,12 +25,12 @@ This section allows you to configure two key features:
 
 ### ⚙️ Configuration – corner links
 
-You can enable or disable corner linking and adjust the **distance threshold** between two corners. This defines how close the corners must be to trigger a linking call (such as *"into"*).
+You can enable or disable corner linking and adjust the distance **threshold** between two corners. This defines how close the corners must be to trigger a linking call (such as *"into"*).
 
 Other options include:
 
-- Selecting the specific link word (e.g., *"into"*, *"and"*)
-- Combining the link with the previous pacenote, so both are delivered more closely together
+- Selecting the specific link **word** (e.g., *"into"*, *"and"*)
+- **Combining** the link with the previous pacenote, so both are delivered more closely together
 
 > ⚠️ Using very low thresholds may group too many corners together in tight sections, making instructions harder to follow.
 
@@ -40,8 +40,8 @@ Other options include:
 
 You can also set up a distance call to indicate longer straights:
 
-- Enable or disable the feature
-- Define the minimum straight-line distance required to trigger the call
+- **Enable** or disable the feature
+- Define the **minimum** straight-line distance required to trigger the call
 
 This can help drivers anticipate long acceleration zones or prepare for braking earlier.
 

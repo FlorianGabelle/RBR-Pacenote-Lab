@@ -29,8 +29,8 @@ Le **seuil de détection** est un paramètre clé de l’analyse. Il influence p
 
 Un seuil plus bas :
 
-- Permet de détecter les virages à faible amplitude (ex. : courbes rapides)
-- Allonge la durée des virages détectés, ce qui peut parfois réduire la précision ou compliquer l'enchaînement des appels
+- Permet de détecter les virages à **faible** amplitude (ex. : courbes rapides)
+- Allonge la **durée** des virages détectés, ce qui peut parfois réduire la précision ou compliquer l'enchaînement des appels
 
 ---
 
@@ -38,8 +38,8 @@ Un seuil plus bas :
 
 Un seuil plus élevé :
 
-- Filtre les variations mineures du volant, en ignorant les mouvements de faible amplitude
-- Améliore la séparation entre les virages
+- Filtre les variations mineures du volant, en **ignorant** les mouvements de faible amplitude
+- Améliore la **séparation** entre les virages
 
 ---
 
@@ -49,8 +49,8 @@ La valeur par défaut de **10 degrés** offre un bon compromis avec les réglage
 
 Selon votre usage :
 
-- Baissez la valeur pour augmenter la sensibilité et détecter plus de virages  
-- Augmentez-la légèrement pour réduire les faux positifs ou le bruit de signal
+- **Baissez** la valeur pour augmenter la sensibilité et détecter plus de virages  
+- **Augmentez**-la légèrement pour réduire les faux positifs ou le bruit de signal
 
 Au fur et à mesure que vous prenez en main l’outil, vous pouvez essayer de baisser le seuil pour affiner la détection.  
 Cependant, cela peut nécessiter d’ajuster d’autres paramètres comme les distances et enchaînements, le filtrage des virages ou le placement des notes pour conserver un bon niveau de qualité.
