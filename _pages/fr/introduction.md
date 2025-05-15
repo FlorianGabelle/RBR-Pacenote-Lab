@@ -150,4 +150,4 @@ Fonctionnalités prévues :
 
 ## 📚 Besoin d’aide pour démarrer ?
 
-Consultez la [documentation](/fr/documentation/) pour les guides de configuration, conseils d’utilisation et options avancées.
+Consultez la [documentation]({{ "/fr/documentation/" | relative_url }}) pour les guides de configuration, conseils d’utilisation et options avancées.

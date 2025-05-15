@@ -141,4 +141,4 @@ Planned additions:
 
 ## 📚 Need help getting started?
 
-See the [documentation](/en/documentation/) for setup guides, usage tips, and advanced configuration.
+See the [documentation]({{ "/en/documentation/" | relative_url }}) for setup guides, usage tips, and advanced configuration.
