@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 1
-cover: /assets/images/docs/en/recce.png
+cover: /assets/images/docs/en/recce.PNG
 sidebar:
   nav: docs-en
 ---

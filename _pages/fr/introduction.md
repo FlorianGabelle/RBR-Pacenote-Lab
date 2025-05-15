@@ -142,7 +142,7 @@ Fonctionnalités prévues :
 - Gyroscope
 
 {% include image.html
-   src="/assets/images/docs/fr/introduction/steering.png"
+   src="/assets/images/docs/fr/introduction/steering.PNG"
    alt="Courbe du volant"
    max_width="100%" %}
 

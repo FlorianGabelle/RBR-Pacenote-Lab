@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 5
-cover: /assets/images/docs/en/corner_lengths/settings.png
+cover: /assets/images/docs/en/corner_lengths/settings.PNG
 sidebar:
   nav: docs-en
 ---
@@ -21,7 +21,7 @@ Corner length is categorized as:
 - **Very long**
 
 {% include image.html
-   src="/assets/images/docs/en/corner_lengths/settings.png"
+   src="/assets/images/docs/en/corner_lengths/settings.PNG"
    alt="Corner Length Settings"
    max_width="80%" %}
 

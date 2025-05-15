@@ -133,7 +133,7 @@ Planned additions:
 - Gyroscope
 
 {% include image.html
-   src="/assets/images/docs/en/introduction/steering.png"
+   src="/assets/images/docs/en/introduction/steering.PNG"
    alt="Steering View"
    max_width="100%" %}
 

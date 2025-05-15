@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 6
-cover: /assets/images/docs/fr/links_and_distances/settings.png
+cover: /assets/images/docs/fr/links_and_distances/settings.PNG
 sidebar:
   nav: docs-fr
 ---
@@ -17,7 +17,7 @@ Cette section permet de configurer deux fonctionnalités clés :
 - **Appels de distance**
 
 {% include image.html
-   src="/assets/images/docs/fr/links_and_distances/settings.png"
+   src="/assets/images/docs/fr/links_and_distances/settings.PNG"
    alt="Enchaînements et distances"
    max_width="80%" %}
 

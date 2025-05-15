@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 2
-cover: /assets/images/docs/en/telemetry/settings.png
+cover: /assets/images/docs/en/telemetry/settings.PNG
 sidebar:
   nav: docs-en
 ---
@@ -30,6 +30,6 @@ For the calibration tool, use these settings:
 ---
 
 {% include image.html
-   src="/assets/images/docs/en/telemetry/settings.png"
+   src="/assets/images/docs/en/telemetry/settings.PNG"
    alt="RSF Telemetry Settings"
    max_width="100%" %}

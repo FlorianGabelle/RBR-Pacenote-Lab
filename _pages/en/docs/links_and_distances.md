@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 6
-cover: /assets/images/docs/en/links_and_distances/settings.png
+cover: /assets/images/docs/en/links_and_distances/settings.PNG
 sidebar:
   nav: docs-en
 ---
@@ -17,7 +17,7 @@ This section allows you to configure two key features:
 - **Distance calls**
 
 {% include image.html
-   src="/assets/images/docs/en/links_and_distances/settings.png"
+   src="/assets/images/docs/en/links_and_distances/settings.PNG"
    alt="Links and Distances Settings"
    max_width="80%" %}
 
