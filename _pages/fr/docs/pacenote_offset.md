@@ -22,7 +22,7 @@ La valeur est exprimée en mètres :
 {% include image.html
    src="/assets/images/docs/fr/pacenote_offset/setting.PNG"
    alt="Avance/retard des notes"
-   max_width="80%" %}
+   max_width="100%" %}
 
 ---
 

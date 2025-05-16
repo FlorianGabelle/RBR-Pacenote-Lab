@@ -22,7 +22,7 @@ The offset is a distance value in meters:
 {% include image.html
    src="/assets/images/docs/en/pacenote_offset/setting.PNG"
    alt="Pacenote Offset Setting"
-   max_width="80%" %}
+   max_width="100%" %}
 
 ---
 
