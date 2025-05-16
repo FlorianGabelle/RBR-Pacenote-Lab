@@ -23,7 +23,7 @@ Il est fortement recommandé de rester sur ou de revenir à la version [v1.6.1](
 
 ## ⚙️ Incompatibilité de l'outil de calibration avec Simucube Tuner
 
-Actuellement, **Simucube Tuner** utilise par défaut le port UDP de télémétrie NGP, ce qui empêche Pacenote Lab de récupérer les données de télémétrie.
+Actuellement, **Simucube Tuner** utilise le port UDP de télémétrie NGP par défaut, ce qui empêche Pacenote Lab de récupérer les données de télémétrie.
 
 Une future mise à jour permettra de personnaliser le port d'écoute, ce qui réglera ce conflit.
 
