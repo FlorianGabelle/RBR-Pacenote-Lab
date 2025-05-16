@@ -5,7 +5,7 @@ excerpt: "Analysis Settings"
 show_date: false
 lang: en
 type: doc
-order: 10
+order: 100
 cover: /assets/images/docs/en/detection_threshold/setting.PNG
 sidebar:
   nav: docs-en
@@ -43,16 +43,16 @@ Raising the threshold will:
 
 ---
 
-### ✅ Recommended setting
+### ✅ Recommended Setting
 
-The default value of **10 degrees** offers a balanced compromise with the standard settings for corner lengths, links, and distances.
+The default value of **10 degrees** provides a **balanced compromise**, working well with standard corner lengths, link thresholds, and distances.
 
-Depending on your use case:
+You can adjust this setting based on your specific needs:
 
-- **Lower** the value to increase sensitivity and detect more corners
-- **Raise** the value slightly to reduce false positives or signal noise
+- **Decrease** the value to make detection more sensitive, which helps identify minor or fast corners.
 
-As you become more familiar with the tool and its behavior, you can experiment with lowering the threshold to increase sensitivity.  
-However, doing so may require fine-tuning your distance, corner filtering and pacenote offset settings to maintain output quality.
+- **Increase** the value slightly if nearby corners are being grouped together and detected as a single corner.
+
+Lowering the detection threshold doesn’t always lead to better results or higher-quality notes. In some cases, a higher threshold can be more effective. Detecting very low-intensity corners may cause issues, such as difficulty distinguishing between consecutive, closely spaced corners.
 
 > 📌 Note: Raw steering data is pre-processed — it’s down-sampled and filtered to reduce signal noise near the threshold level and to improve performance.

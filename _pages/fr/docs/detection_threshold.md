@@ -5,7 +5,7 @@ excerpt: "Paramètres d’analyse"
 show_date: false
 lang: fr
 type: doc
-order: 10
+order: 100
 cover: /assets/images/docs/fr/detection_threshold/setting.PNG
 sidebar:
   nav: docs-fr
@@ -43,16 +43,16 @@ Un seuil plus élevé :
 
 ---
 
-### ✅ Réglage recommandé
+### ✅ Paramètre recommandé
 
-La valeur par défaut de **10 degrés** offre un bon compromis avec les réglages standards pour la longueur des virages, les liaisons et les distances.
+La valeur par défaut de **10 degrés** offre un **compromis équilibré**, fonctionnant bien avec les longueurs de coin, les seuils de liaison et les distances standards.
 
-Selon votre usage :
+Vous pouvez ajuster ce paramètre en fonction de vos besoins spécifiques :
 
-- **Baissez** la valeur pour augmenter la sensibilité et détecter plus de virages  
-- **Augmentez**-la légèrement pour réduire les faux positifs ou le bruit de signal
+- **Diminuez** la valeur pour rendre la détection plus sensible, ce qui aide à identifier les virages mineurs ou rapides.
 
-Au fur et à mesure que vous prenez en main l’outil, vous pouvez essayer de baisser le seuil pour affiner la détection.  
-Cependant, cela peut nécessiter d’ajuster d’autres paramètres comme les distances et enchaînements, le filtrage des virages ou le placement des notes pour conserver un bon niveau de qualité.
+- **Augmentez** légèrement la valeur si des virages proches sont regroupés et détectés comme un seul virage.
+
+Abaisser le seuil de détection n’entraîne pas toujours de meilleurs résultats ou des notes de meilleure qualité. Dans certains cas, un seuil plus élevé peut être plus efficace. La détection de virages de très faible intensité peut poser problème, notamment en rendant difficile la distinction entre des virages consécutifs et rapprochés.
 
 > 📌 Remarque : les données brutes du volant sont prétraitées — elles sont sous-échantillonnées et filtrées pour réduire le bruit autour du seuil et améliorer les performances.

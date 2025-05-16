@@ -5,7 +5,7 @@ excerpt: "Analysis Settings"
 show_date: false
 lang: en
 type: doc
-order: 9
+order: 90
 cover: /assets/images/docs/en/steering_range/setting.PNG
 sidebar:
   nav: docs-en

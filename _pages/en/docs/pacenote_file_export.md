@@ -5,7 +5,7 @@ excerpt: "Pacenotes"
 show_date: false
 lang: en
 type: doc
-order: 15
+order: 150
 cover: /assets/images/docs/en/pacenote_file_export/rsf_my_pacenotes.PNG
 sidebar:
   nav: docs-en

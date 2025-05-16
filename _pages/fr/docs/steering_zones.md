@@ -5,7 +5,7 @@ excerpt: "Configuration"
 show_date: false
 lang: fr
 type: doc
-order: 4
+order: 40
 cover: /assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG
 sidebar:
   nav: docs-fr

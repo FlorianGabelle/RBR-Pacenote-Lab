@@ -29,6 +29,11 @@ docs-en:
       - title: Workflow
         url: /en/docs/workflow/
 
+  - title: Important Information
+    children:
+      - title: Known Issues
+        url: /en/docs/known_issues/
+
   - title: Prerequisites
     children:
       - title: RSF Telemetry Settings
@@ -80,6 +85,11 @@ docs-fr:
     children:
     - title: Procédure à suivre
       url: /fr/docs/workflow/
+
+  - title: Informations importantes
+    children:
+      - title: Problèmes connus
+        url: /fr/docs/known_issues/
 
   - title: Prérequis
     children:

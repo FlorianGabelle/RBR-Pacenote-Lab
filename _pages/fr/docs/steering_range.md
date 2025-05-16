@@ -5,7 +5,7 @@ excerpt: "Paramètres d’analyse"
 show_date: false
 lang: fr
 type: doc
-order: 9
+order: 90
 cover: /assets/images/docs/fr/steering_range/setting.PNG
 sidebar:
   nav: docs-fr

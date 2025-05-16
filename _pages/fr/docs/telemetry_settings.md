@@ -5,7 +5,7 @@ excerpt: "Prérequis"
 show_date: false
 lang: fr
 type: doc
-order: 2
+order: 20
 cover: /assets/images/docs/fr/telemetry/settings.PNG
 sidebar:
   nav: docs-fr

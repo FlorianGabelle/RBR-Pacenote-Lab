@@ -5,7 +5,7 @@ excerpt: "Configuration"
 show_date: false
 lang: en
 type: doc
-order: 6
+order: 60
 cover: /assets/images/docs/en/links_and_distances/settings.PNG
 sidebar:
   nav: docs-en

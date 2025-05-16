@@ -5,7 +5,7 @@ excerpt: "Visualization"
 show_date: false
 lang: en
 type: doc
-order: 7
+order: 70
 cover: /assets/images/docs/en/stage_map/map_view.PNG
 sidebar:
   nav: docs-en

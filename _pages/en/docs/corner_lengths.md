@@ -5,7 +5,7 @@ excerpt: "Configuration"
 show_date: false
 lang: en
 type: doc
-order: 5
+order: 50
 cover: /assets/images/docs/en/corner_lengths/settings.PNG
 sidebar:
   nav: docs-en

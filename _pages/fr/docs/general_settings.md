@@ -5,7 +5,7 @@ excerpt: "Configuration"
 show_date: false
 lang: fr
 type: doc
-order: 3
+order: 30
 cover: /assets/images/docs/fr/general_settings/general_settings.PNG
 sidebar:
   nav: docs-fr

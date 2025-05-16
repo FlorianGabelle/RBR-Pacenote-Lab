@@ -5,7 +5,7 @@ excerpt: "Présentation générale"
 show_date: false
 lang: fr
 type: doc
-order: 1
+order: 10
 cover: /assets/images/docs/fr/recce.PNG
 sidebar:
   nav: docs-fr

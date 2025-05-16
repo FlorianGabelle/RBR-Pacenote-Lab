@@ -5,7 +5,7 @@ excerpt: "Additional Tools"
 show_date: false
 lang: en
 type: doc
-order: 14
+order: 140
 cover: /assets/images/docs/en/pacenote_graphics_editor/default.PNG
 sidebar:
   nav: docs-en

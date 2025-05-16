@@ -5,7 +5,7 @@ excerpt: "Paramètres d’analyse"
 show_date: false
 lang: fr
 type: doc
-order: 11
+order: 110
 cover: /assets/images/docs/fr/minimum_corner_length/setting.PNG
 sidebar:
   nav: docs-fr

@@ -5,7 +5,7 @@ excerpt: "Analysis Settings"
 show_date: false
 lang: en
 type: doc
-order: 12
+order: 120
 cover: /assets/images/docs/en/pacenote_offset/setting.PNG
 sidebar:
   nav: docs-en

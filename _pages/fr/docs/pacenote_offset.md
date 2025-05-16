@@ -5,7 +5,7 @@ excerpt: "Paramètres d’analyse"
 show_date: false
 lang: fr
 type: doc
-order: 12
+order: 120
 cover: /assets/images/docs/fr/pacenote_offset/setting.PNG
 sidebar:
   nav: docs-fr

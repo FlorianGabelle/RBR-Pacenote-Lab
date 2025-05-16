@@ -5,7 +5,7 @@ excerpt: "Analysis Settings"
 show_date: false
 lang: en
 type: doc
-order: 11
+order: 110
 cover: /assets/images/docs/en/minimum_corner_length/setting.PNG
 sidebar:
   nav: docs-en
