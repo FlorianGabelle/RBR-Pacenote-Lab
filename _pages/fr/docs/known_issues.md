@@ -11,13 +11,16 @@ sidebar:
   nav: docs-fr
 ---
 
-## ⚠️ Incompatibilité avec la dernière version de Roadbook
+## ⚠️ Remarque sur la compatibilité avec Roadbook v1.6.2
 
-À l'heure actuelle, **RBR Roadbook v1.6.2** présente des problèmes connus avec l'import/export des fichiers de pacenotes.
+**RBR Roadbook v1.6.2** devrait fonctionner correctement dans la plupart des cas, y compris pour l'import/export de fichiers de notes avec **Pacenote Lab**.
 
-Plus précisément, il **remplace automatiquement** les identifiants des virages (corner pacenote IDs), ce qui peut entraîner une interprétation incorrecte de vos notes générées, selon une autre échelle.
+Cependant, dans de rares situations, il *pourrait* réécrire les IDs de notes de virage, ce qui pourrait entraîner une interprétation différente de l’échelle des notes.
 
-Il est fortement recommandé de rester sur ou de revenir à la version [v1.6.1](https://rbr-masterclass.de/roadbook-versions.html) si vous prévoyez de modifier des notes générées avec **Pacenote Lab**.
+### Que faire (par précaution)
+Si vous remarquez un comportement inhabituel après l'importation de vos notes, envisagez de repasser temporairement à la version [v1.6.1](https://rbr-masterclass.de/roadbook-versions.html) le temps que j’en sache plus.
+
+Aucun problème confirmé pour l’instant — il s’agit simplement d’une mesure de précaution.
 
 ---
 
