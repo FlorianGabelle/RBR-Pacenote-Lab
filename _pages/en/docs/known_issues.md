@@ -29,3 +29,11 @@ No confirmed issues yet—this is just a precaution.
 Currently, **Simucube Tuner** uses the default NGP telemetry UDP port, preventing Pacenote Lab from retrieving telemetry data.
 
 A future update will allow you to customize the listening port, resolving this conflict.
+
+---
+
+## 🎙️ Compatibility Issue with Czech Co-Driver 
+
+There is a compatibility issue with the Czech co-driver add-on "JackCzech" in the current release:
+
+The issue has been identified and patched. Full compatibility will be guaranteed in the next release.
