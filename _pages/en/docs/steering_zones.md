@@ -17,7 +17,7 @@ Steering zones are used to categorize corners based on the amount of steering in
 
 ### ⚙️ Configuration
 
-Click the **Add a steering zone** button to define your first angle range. This sets up the initial zone from the neutral (0°) position up to your chosen threshold (for example: 14°). You can assign left and right pacenote calls for each zone.
+Click the **Add a steering zone** button to define your first angle range. This sets up the initial zone from the neutral (0°) position up to your chosen threshold (for example: 14°). You can assign left and right pacenotes for each zone.
 
 {% include image.html
    src="/assets/images/docs/en/steering_zones/first_zone.PNG"
@@ -40,9 +40,9 @@ You can also define modifier calls (e.g., *plus* or *minus*) to add nuance — u
 
 > ✅ Recommendation: Define your main zones (e.g., 6 to 1) up to around 160–180 degrees.
 
-Any steering input beyond the final zone will trigger the last assigned call. To handle this, add a catch-all zone at the end — usually labeled as a **hairpin**.
+Any steering input beyond the final zone will trigger the last assigned pacenote. To handle this, add a catch-all zone at the end — usually labeled as a **hairpin**.
 
-You can review and fine-tune these calls later in **RBR Roadbook**, adjusting for square corners, hairpins, or acute hairpins.
+You can review and fine-tune these pacenotes later in **RBR Roadbook**, adjusting for square corners, hairpins, or acute hairpins.
 
 ---
 
@@ -52,7 +52,7 @@ Use the import and export buttons in the interface to manage your configurations
 
 > ⚠️ Note:  
 > - You can import any configuration created with this tool.  
-> - If it was made for a different co-driver system, the zones will import correctly, but pacenote calls may need reassignment.
+> - If it was made for a different co-driver system, the zones will import correctly, but pacenotes may need reassignment.
 
 ---
 
@@ -60,8 +60,8 @@ Use the import and export buttons in the interface to manage your configurations
 
 Below are two ready-to-use zone files based on my 6–1 SimHub steering overlay (link coming soon). These can be imported directly into the app:
 
-- The first is compatible with descriptive and RBR (legacy) co-driver setups.
-- The second uses a numeric call system.
+- The first is compatible with descriptive and RBR (legacy) co-driver system.
+- The second uses a numeric system.
 
 <a href="{{ '/assets/files/steering_zones_Descriptive_Rbr.csv' | relative_url }}" class="button button--primary--pill" download>
   <i class="fas fa-download"></i> steering_zones_Descriptive_Rbr.csv

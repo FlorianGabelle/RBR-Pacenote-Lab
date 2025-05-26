@@ -24,7 +24,7 @@ Elle offre une vue claire et précise des données, et de leur correspondance av
 
 ### 🧾 Éléments affichés
 
-- Notes graphiques définies dans l’éditeur  
+- Notes visuelles définies dans l’éditeur  
 - Détails des virages : enchaînement, intensité, longueur  
 - Appels de distance et tags de spéciale  
 - Position des notes (avec distance en mètres)  

@@ -16,7 +16,7 @@ The first time you run the application, open the configuration window and comple
 - Change the **language** (optional)
 - Set the **path** to the game executable
 - Select your co-driver pacenote.ini **configuration** file
-- Choose the co-driver language if using a legacy co-driver or calls
+- Choose the co-driver language if using a legacy co-driver or callouts
 
 {% include image.html
    src="/assets/images/docs/en/general_settings/general_settings.PNG"

@@ -37,4 +37,4 @@ The offset is a distance value in meters:
 ---
 
 > 🔎 Note: This setting only affects corner pacenotes.  
-> Distance calls remain positioned at the end of the preceding corner and are not affected by this offset.
+> Distance callouts remain positioned at the end of the preceding corner and are not affected by this offset.

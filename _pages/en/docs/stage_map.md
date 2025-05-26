@@ -24,9 +24,9 @@ It gives you a clear, accurate visual of the data and how it maps to the stage.
 
 ### 🧾 Visual elements
 
-- Pacenote graphics as defined in the editor  
+- Pacenote icons as defined in the editor  
 - Pacenote details including link type, amplitude, and length  
-- Distance calls and stage tags  
+- Distance callouts and stage tags  
 - Pacenote positions (with distance in meters)  
 - Corner detections shown as blue segments
 
@@ -34,7 +34,7 @@ It gives you a clear, accurate visual of the data and how it maps to the stage.
 
 ### 🖱️ Mouse controls
 
-- **Left-click + drag** — pan the map and hide graphics/labels  
+- **Left-click + drag** — pan the map and hide icons/labels  
 - **Scroll wheel** — zoom in and out  
 - **Right-click** — reset to default zoom
 

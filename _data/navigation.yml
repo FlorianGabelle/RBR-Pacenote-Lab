@@ -72,8 +72,8 @@ docs-en:
     children:
     - title: Calibration Tool
       url: /en/docs/calibration_tool/
-    - title: Pacenote Graphics Editor
-      url: /en/docs/pacenote_graphics_editor/
+    - title: Visual Pacenotes Editor
+      url: /en/docs/visual_pacenotes_editor/
 
   - title: Pacenotes
     children:
@@ -129,8 +129,8 @@ docs-fr:
     children:
       - title: Calibration du volant
         url: /fr/docs/calibration_tool/
-      - title: Éditeur de notes graphiques
-        url: /fr/docs/pacenote_graphics_editor/
+      - title: Éditeur de notes visuelles
+        url: /fr/docs/visual_pacenotes_editor/
 
   - title: Pacenotes
     children:

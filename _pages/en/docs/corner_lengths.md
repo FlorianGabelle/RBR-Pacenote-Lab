@@ -16,7 +16,7 @@ The application calculates corner length using telemetry data.
 Corner length is categorized as:
 
 - Short
-- Normal (no call)
+- Normal (no callout)
 - Long
 - Very long
 
@@ -33,7 +33,7 @@ For each category, you can:
 
 - **Enable** or disable it
 - Set its length **threshold**
-- Assign a custom **pacenote** call
+- Assign a custom **pacenote** callout
 
 ---
 

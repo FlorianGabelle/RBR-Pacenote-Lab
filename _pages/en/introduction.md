@@ -24,7 +24,7 @@ Generated pacenotes include:
 - Corner calls — numeric, descriptive, or custom
 - Modifiers — optional plus/minus notation (even for unsupported co-drivers)
 - Corner lengths — short, long, very long
-- Distance calls — optional straight-line markers
+- Distance callouts — optional straight-line markers
 - Stage tags — *Start*, *Split*, *Finish*, *End_of_track*
 
 {% include image.html
@@ -85,7 +85,7 @@ Generate corner and distance pacenotes in **Pacenote Lab**, refine the pacenotes
 The steering zone system lets you control how turns are interpreted:
 
 - Define custom zones with angle thresholds
-- Assign pacenote calls to each range
+- Assign pacenotes to each range
 - Add modifiers (plus/minus) as needed
 - Import/export presets for reuse or sharing
 
@@ -119,13 +119,13 @@ The steering zone system lets you control how turns are interpreted:
 
 ## 🛠 Additional tools
 
-### Pacenote graphics editor
+### Visual pacenotes editor
 
-Customize how each call appears on the stage map and in-game — including 2D and 3D icons. Personalize visuals to match your style.
+Customize how each corner pacenote appears on the stage map and in-game — including 2D and 3D icons for visual pacenotes. Personalize visuals to match your style.
 
 {% include image.html
-   src="/assets/images/docs/en/introduction/pacenote_graphics_editor.PNG"
-   alt="Pacenote Graphics Editor"
+   src="/assets/images/docs/en/introduction/visual_pacenotes_editor.PNG"
+   alt="Visual Pacenotes Editor"
    max_width="80%" %}
 
 ### Calibration tool

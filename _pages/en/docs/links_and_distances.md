@@ -14,7 +14,7 @@ sidebar:
 This section allows you to configure two key features:
 
 - Corner links (e.g., *"into"*, *"and"*)
-- Distance calls
+- Distance callouts
 
 {% include image.html
    src="/assets/images/docs/en/links_and_distances/settings.PNG"
@@ -36,12 +36,12 @@ Other options include:
 
 ---
 
-### ⚙️ Configuration – distance calls
+### ⚙️ Configuration – distance callouts
 
-You can also set up a distance call to indicate longer straights:
+You can also set up a distance callout to indicate longer straights:
 
 - **Enable** or disable the feature
-- Define the **minimum** straight-line distance required to trigger the call
+- Define the **minimum** straight-line distance required to trigger the callout
 
 This can help drivers anticipate long acceleration zones or prepare for braking earlier.
 

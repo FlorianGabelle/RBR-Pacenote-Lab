@@ -119,21 +119,21 @@ Le système de zones volant vous permet de définir comment les virages sont int
 
 ## 🛠 Outils additionnels
 
-### Éditeur Graphique de Notes
+### Éditeur de Notes Visuelles
 
 Personnalisez comment chaque appel est représenté sur la carte et en jeu — y compris les icônes 2D et 3D. Ajustez les visuels selon votre système.
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/docs/fr/introduction/pacenote_graphics_editor.PNG">
-      <img src="/assets/images/docs/fr/introduction/pacenote_graphics_editor.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Editeur de notes graphiques" />
+    <a data-gallery href="/assets/images/docs/fr/introduction/visual_pacenotes_editor.PNG">
+      <img src="/assets/images/docs/fr/introduction/visual_pacenotes_editor.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Editeur de notes visuelles" />
     </a>
   </figure>
 </div>
 
 {% include image.html
-   src="/assets/images/docs/fr/introduction/pacenote_graphics_editor.PNG"
-   alt="Editeur de notes graphiques"
+   src="/assets/images/docs/fr/introduction/visual_pacenotes_editor.PNG"
+   alt="Editeur de notes visuelles"
    max_width="80%" %}
 
 ### Outil de calibration
