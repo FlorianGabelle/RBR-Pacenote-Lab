@@ -311,7 +311,7 @@
               <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
 
 <!-- end custom main top snippet -->
-<article><div class="article__header"><header><h1>Configuration de la télémétrie RSF</h1></header></div><meta itemprop="headline" content="Configuration de la télémétrie RSF"><meta itemprop="author" content="Florian Gabelle"/><meta itemprop="datePublished" content="2025-05-26T20:48:41+03:00"><div class="article__content js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+<article><div class="article__header"><header><h1>Configuration de la télémétrie RSF</h1></header></div><meta itemprop="headline" content="Configuration de la télémétrie RSF"><meta itemprop="author" content="Florian Gabelle"/><meta itemprop="datePublished" content="2025-05-27T14:13:29+03:00"><div class="article__content js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
 
 <!-- end custom article top snippet -->
 <div class="article__content" itemprop="articleBody"><p>Pour activer l’analyse et générer les pacenotes, assurez-vous que les paramètres RSF suivants sont définis :</p>
@@ -336,17 +336,40 @@
   <li>127.0.0.1:6776</li>
 </ul>
 
-<hr />
-
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery="" href="/RBR-Pacenote-Lab/assets/images/docs/fr/telemetry/settings.PNG">
-      <img src="/RBR-Pacenote-Lab/assets/images/docs/fr/telemetry/settings.PNG" alt="Télémétrie RSF" style="display: block; margin: 0 auto; max-width: 100%;" />
+    <a data-gallery="" href="/RBR-Pacenote-Lab/assets/images/docs/fr/rsf_window/telemetry.png">
+      <img src="/RBR-Pacenote-Lab/assets/images/docs/fr/rsf_window/telemetry.png" alt="Télémétrie RSF" style="display: block; margin: 0 auto; max-width: 100%;" />
     </a>
     
   </figure>
 </div>
-</div><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2025-05-26T20:48:41+03:00"><!-- start custom article footer snippet -->
+
+<hr />
+
+<p>Si vous avez besoin d’écouter les données UDP sur un port supplémentaire — par exemple si une autre application comme le logiciel de votre base de volant ou SimHub utilise déjà le port par défaut — vous pouvez définir un port supplémentaire dans les paramètres. Cela permet à plusieurs outils de recevoir la télémétrie en même temps, sans conflit.</p>
+
+<p>Pour ce faire, ajoutez un port UDP secondaire dans la configuration (par exemple, 127.0.0.1:6777) et assurez-vous de <strong>mettre à jour</strong> les paramètres de télémétrie UDP en conséquence dans l’onglet <strong>Général</strong> de la fenêtre de configuration.</p>
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery="" href="/RBR-Pacenote-Lab/assets/images/docs/fr/rsf_window/telemetry_2.png">
+      <img src="/RBR-Pacenote-Lab/assets/images/docs/fr/rsf_window/telemetry_2.png" alt="RSF Telemetry Settings" style="display: block; margin: 0 auto; max-width: 100%;" />
+    </a>
+    
+  </figure>
+</div>
+
+<div class="cell cell--12 cell--md-6">
+  <figure>
+    <a data-gallery="" href="/RBR-Pacenote-Lab/assets/images/docs/fr/configuration_window/general_udp_alternate.png">
+      <img src="/RBR-Pacenote-Lab/assets/images/docs/fr/configuration_window/general_udp_alternate.png" alt="RSF Telemetry Settings" style="display: block; margin: 0 auto; max-width: 100%;" />
+    </a>
+    
+  </figure>
+</div>
+
+</div><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2025-05-27T14:13:29+03:00"><!-- start custom article footer snippet -->
 
 <!-- end custom article footer snippet -->
 </footer>

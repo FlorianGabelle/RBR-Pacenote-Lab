@@ -311,7 +311,7 @@
               <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
 
 <!-- end custom main top snippet -->
-<article><div class="article__header"><header><h1>Steering Range</h1></header></div><meta itemprop="headline" content="Steering Range"><meta itemprop="author" content="Florian Gabelle"/><meta itemprop="datePublished" content="2025-05-26T20:48:41+03:00"><div class="article__content js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+<article><div class="article__header"><header><h1>Steering Range</h1></header></div><meta itemprop="headline" content="Steering Range"><meta itemprop="author" content="Florian Gabelle"/><meta itemprop="datePublished" content="2025-05-27T14:13:29+03:00"><div class="article__content js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
 
 <!-- end custom article top snippet -->
 <div class="article__content" itemprop="articleBody"><p>To ensure the in-game steering angle matches your physical wheel rotation, it’s important to set the steering range value correctly.</p>
@@ -323,8 +323,8 @@
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery="" href="/RBR-Pacenote-Lab/assets/images/docs/en/steering_range/setting.PNG">
-      <img src="/RBR-Pacenote-Lab/assets/images/docs/en/steering_range/setting.PNG" alt="Steering Range Setting" style="display: block; margin: 0 auto; max-width: 100%;" />
+    <a data-gallery="" href="/RBR-Pacenote-Lab/assets/images/docs/en/main_window/steering_range.png">
+      <img src="/RBR-Pacenote-Lab/assets/images/docs/en/main_window/steering_range.png" alt="Steering Range Setting" style="display: block; margin: 0 auto; max-width: 100%;" />
     </a>
     
   </figure>
@@ -343,7 +343,14 @@
 <p>If you’re unsure or want to verify your setup, use the calibration tool included in the application. It helps fine-tune the correct range using live telemetry.</p>
 
 <p>For detailed instructions, see the <a href="/RBR-Pacenote-Lab/en/docs/calibration_tool/">Calibration tool</a> page.</p>
-</div><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2025-05-26T20:48:41+03:00"><!-- start custom article footer snippet -->
+
+<hr />
+
+<h3 id="️-important-note">⚠️ Important Note</h3>
+
+<p>If you override the NGP default with a lower steering range value, or set your wheel base to a value smaller than the car’s defined range, it will affect the scale of the measurements. Since the wheel needs to be turned less to reach the same in-game angle, the resulting telemetry values will be proportionally smaller. This reduces the granularity of the data, meaning fewer distinct values are captured across the steering range.
+While this doesn’t impact accuracy or consistency, it does reduce measurement detail. For this reason, it’s recommended to stick to the NGP default values during recces to preserve measurement resolution.</p>
+</div><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2025-05-27T14:13:29+03:00"><!-- start custom article footer snippet -->
 
 <!-- end custom article footer snippet -->
 </footer>
