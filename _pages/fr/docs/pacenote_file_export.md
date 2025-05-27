@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 150
-cover: /assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG
+cover: /assets/images/docs/fr/rsf_window/my_pacenotes.png
 sidebar:
   nav: docs-fr
 ---
@@ -40,7 +40,7 @@ Cette étape finale ajoute des informations impossibles à déduire uniquement d
 Après avoir généré et édité vos notes, pensez à sélectionner le bon fichier dans le **Launcher RSF** pour la spéciale correspondante.
 
 {% include image.html
-   src="/assets/images/docs/fr/pacenote_file_export/rsf_my_pacenotes.PNG"
+   src="/assets/images/docs/fr/rsf_window/my_pacenotes.png"
    alt="RSF Mes Notes"
    max_width="100%" %}
 
@@ -50,4 +50,4 @@ Après avoir généré et édité vos notes, pensez à sélectionner le bon fich
 ### 📌 Dossier d’export
 
 - Veillez à exporter le fichier dans le dossier correspondant à la bonne spéciale.  
-  Pour les **spéciales BTB**, c’est particulièrement important : les tags de spéciale sont ajoutées lors de l’export et **ne peuvent pas être réaffectées ensuite**.
+  Pour les **spéciales BTB**, c’est particulièrement important : les tags de spéciale sont ajoutés lors de l’export et **ne peuvent pas être réaffectées ensuite**.

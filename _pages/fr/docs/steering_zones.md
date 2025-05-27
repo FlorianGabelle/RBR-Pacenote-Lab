@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 40
-cover: /assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG
+cover: /assets/images/docs/fr/configuration_window/steering_zones/steering_zones_numeric.png
 sidebar:
   nav: docs-fr
 ---
@@ -20,21 +20,21 @@ Les **zones volant** permettent de catégoriser les virages selon l’angle appl
 Cliquez sur le bouton **Ajouter une zone volant** pour définir votre première plage d’angle. Cela crée une zone initiale entre la position neutre (0°) et le seuil que vous avez choisi (par exemple: 14°). Vous pouvez attribuer des appels pour la gauche et la droite à chaque zone.
 
 {% include image.html
-   src="/assets/images/docs/fr/steering_zones/first_zone.PNG"
+   src="/assets/images/docs/fr/configuration_window/steering_zones/first_zone.png"
    alt="Première zone"
    max_width="80%" %}
 
 Vous pouvez ensuite ajouter d’autres zones. Par exemple, si vous définissez une nouvelle zone à 43°, elle s’étendra depuis la fin de la précédente (ex. 14°) jusqu’à 43°.
 
 {% include image.html
-   src="/assets/images/docs/fr/steering_zones/second_zone.PNG"
+   src="/assets/images/docs/fr/configuration_window/steering_zones/second_zone.png"
    alt="Deuxième zone"
    max_width="80%" %}
 
 Vous pouvez également définir des modificateurs (ex. *plus* ou *moins*) pour ajouter de la nuance — utile si votre copilote ne les gère pas nativement. Par exemple, la deuxième zone peut être subdivisée en trois plages plus fines grâce aux modificateurs.
 
 {% include image.html
-   src="/assets/images/docs/fr/steering_zones/modifier.PNG"
+   src="/assets/images/docs/fr/configuration_window/steering_zones/modifier.png"
    alt="Exemple de modificateur"
    max_width="80%" %}
 
@@ -75,9 +75,9 @@ Voici deux fichiers de zones prêts à l’emploi, basés sur mon overlay Simhub
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="{{ '/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG' | relative_url }}">
+      <a data-gallery href="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_descriptive.png' | relative_url }}">
         <img
-          src="{{ '/assets/images/docs/fr/steering_zones/steering_zones_descriptive.PNG' | relative_url }}"
+          src="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_descriptive.png' | relative_url }}"
           style="width: 100%; height: auto;"
           alt="Mode descriptif" />
       </a>
@@ -87,9 +87,9 @@ Voici deux fichiers de zones prêts à l’emploi, basés sur mon overlay Simhub
 
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="{{ '/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG' | relative_url }}">
+      <a data-gallery href="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_numeric.png' | relative_url }}">
         <img
-          src="{{ '/assets/images/docs/fr/steering_zones/steering_zones_numeric.PNG' | relative_url }}"
+          src="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_numeric.png' | relative_url }}"
           style="width: 100%; height: auto;"
           alt="Mode numérique" />
       </a>

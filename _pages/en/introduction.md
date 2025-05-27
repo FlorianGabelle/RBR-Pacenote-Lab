@@ -28,7 +28,7 @@ Generated pacenotes include:
 - Stage tags — *Start*, *Split*, *Finish*, *End_of_track*
 
 {% include image.html
-   src="/assets/images/docs/en/introduction/main_window.PNG"
+   src="/assets/images/docs/en/main_window/stage_map.png"
    alt="Main window"
    max_width="100%" %}
 
@@ -54,7 +54,7 @@ Planned additions:
 - Gyroscope
 
 {% include image.html
-   src="/assets/images/docs/en/introduction/steering.PNG"
+   src="/assets/images/docs/en/main_window/steering_trace.png"
    alt="Steering View"
    max_width="100%" %}
    
@@ -92,9 +92,9 @@ The steering zone system lets you control how turns are interpreted:
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="{{ '/assets/images/docs/en/introduction/steering_zones_descriptive.PNG' | relative_url }}">
+      <a data-gallery href="{{ '/assets/images/docs/en/configuration_window/steering_zones/steering_zones_descriptive.png' | relative_url }}">
         <img
-          src="{{ '/assets/images/docs/en/introduction/steering_zones_descriptive.PNG' | relative_url }}"
+          src="{{ '/assets/images/docs/en/configuration_window/steering_zones/steering_zones_descriptive.png' | relative_url }}"
           style="width: 100%; height: auto;"
           alt="Descriptive" />
       </a>
@@ -104,9 +104,9 @@ The steering zone system lets you control how turns are interpreted:
 
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="{{ '/assets/images/docs/en/introduction/steering_zones_numeric.PNG' | relative_url }}">
+      <a data-gallery href="{{ '/assets/images/docs/en/configuration_window/steering_zones/steering_zones_numeric.png' | relative_url }}">
         <img
-          src="{{ '/assets/images/docs/en/introduction/steering_zones_numeric.PNG' | relative_url }}"
+          src="{{ '/assets/images/docs/en/configuration_window/steering_zones/steering_zones_numeric.png' | relative_url }}"
           style="width: 100%; height: auto;"
           alt="Numeric" />
       </a>
@@ -124,7 +124,7 @@ The steering zone system lets you control how turns are interpreted:
 Customize how each corner pacenote appears on the stage map and in-game — including 2D and 3D icons for visual pacenotes. Personalize visuals to match your style.
 
 {% include image.html
-   src="/assets/images/docs/en/introduction/visual_pacenotes_editor.PNG"
+   src="/assets/images/docs/en/configuration_window/visual_pacenotes_editor/default.png"
    alt="Visual Pacenotes Editor"
    max_width="80%" %}
 
@@ -133,7 +133,7 @@ Customize how each corner pacenote appears on the stage map and in-game — incl
 Test and calibrate your setup using live steering angle data from your simulator.
 
 {% include image.html
-   src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG"
+   src="/assets/images/docs/en/calibration_window/calibration_tool.png"
    alt="Calibration Tool"
    max_width="50%" %}
 

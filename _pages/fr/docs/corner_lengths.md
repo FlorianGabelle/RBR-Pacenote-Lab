@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 50
-cover: /assets/images/docs/fr/corner_lengths/settings.PNG
+cover: /assets/images/docs/fr/configuration_window/corner_lengths.png
 sidebar:
   nav: docs-fr
 ---
@@ -21,7 +21,7 @@ Les longueurs sont classées selon les catégories suivantes :
 - Très long
 
 {% include image.html
-   src="/assets/images/docs/fr/corner_lengths/settings.PNG"
+   src="/assets/images/docs/fr/configuration_window/corner_lengths.png"
    alt="Longueur des virages"
    max_width="80%" %}
 

@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 140
-cover: /assets/images/docs/en/visual_pacenotes_editor/default.PNG
+cover: /assets/images/docs/en/configuration_window/visual_pacenotes_editor/default.png
 sidebar:
   nav: docs-en
 ---
@@ -16,7 +16,7 @@ The visual pacenotes editor is located in the configuration window. It allows yo
 You can select a pacenote package using the **Current package** dropdown. Each package defines a set of pacenotes used by your co-driver.
 
 {% include image.html
-   src="/assets/images/docs/en/visual_pacenotes_editor/default.PNG"
+   src="/assets/images/docs/en/configuration_window/visual_pacenotes_editor/default.png"
    alt="Visual Pacenotes Editor"
    max_width="80%" %}
 
@@ -34,7 +34,7 @@ To override or add a pacenote icon:
 > Each package must be saved individually.
 
 {% include image.html
-   src="/assets/images/docs/en/visual_pacenotes_editor/combobox.PNG"
+   src="/assets/images/docs/en/configuration_window/visual_pacenotes_editor/combobox.png"
    alt="Icon Selection Dropdown"
    max_width="80%" %}
 
@@ -42,11 +42,10 @@ To override or add a pacenote icon:
 
 ⚠️ **Important**
 
-The updated icons system relies on two components:
-
-1. Modified co-driver package files
-2. Flags in the pacenote file for the stage
-
 To ensure your updated icons appear in-game, you must:
-- Generate the pacenote file using *RBR Pacenote Lab*, or  
-- Import and re-export existing pacenote files via *RBR Roadbook* after patching your package files with this tool
+
+- Generate the pacenote file using **RBR Pacenote Lab**, or  
+- Import and re-export existing pacenote files via **RBR Roadbook** *after* patching your package files with this tool  
+- Alternatively, you can use the **built-in patching tool** to regenerate the flags in your pacenote files. This allows you to patch a single pacenote file or all files located in the `Plugins\NGPCarMenu\MyPacenotes` folder.
+
+> 💡 It is recommended to create a backup of your files before patching, in case you need to revert changes.

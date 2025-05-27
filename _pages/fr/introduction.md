@@ -28,7 +28,7 @@ Les pacenotes générés incluent :
 - Marqueurs de spéciale — *Start*, *Split*, *Finish*, *End_of_track*
 
 {% include image.html
-   src="/assets/images/docs/fr/introduction/main_window.PNG"
+   src="/assets/images/docs/fr/main_window/stage_map.png"
    alt="Fenêtre principale"
    max_width="100%" %}
 
@@ -54,7 +54,7 @@ Fonctionnalités prévues :
 - Gyroscope
 
 {% include image.html
-   src="/assets/images/docs/fr/introduction/steering.PNG"
+   src="/assets/images/docs/fr/main_window/steering_trace.png"
    alt="Courbe du volant"
    max_width="100%" %}
 
@@ -92,9 +92,9 @@ Le système de zones volant vous permet de définir comment les virages sont int
 <div class="grid grid--p-3">
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="{{ '/assets/images/docs/fr/introduction/steering_zones_descriptive.PNG' | relative_url }}">
+      <a data-gallery href="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_descriptive.png' | relative_url }}">
         <img
-          src="{{ '/assets/images/docs/fr/introduction/steering_zones_descriptive.PNG' | relative_url }}"
+          src="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_descriptive.png' | relative_url }}"
           style="width: 100%; height: auto;"
           alt="Zones volant - Descriptif" />
       </a>
@@ -104,9 +104,9 @@ Le système de zones volant vous permet de définir comment les virages sont int
 
   <div class="cell cell--12 cell--md-6">
     <figure>
-      <a data-gallery href="{{ '/assets/images/docs/fr/introduction/steering_zones_numeric.PNG' | relative_url }}">
+      <a data-gallery href="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_numeric.png' | relative_url }}">
         <img
-          src="{{ '/assets/images/docs/fr/introduction/steering_zones_numeric.PNG' | relative_url }}"
+          src="{{ '/assets/images/docs/fr/configuration_window/steering_zones/steering_zones_numeric.png' | relative_url }}"
           style="width: 100%; height: auto;"
           alt="Zones volant - Numérique" />
       </a>
@@ -125,14 +125,14 @@ Personnalisez comment chaque appel est représenté sur la carte et en jeu — y
 
 <div class="cell cell--12 cell--md-6">
   <figure>
-    <a data-gallery href="/assets/images/docs/fr/introduction/visual_pacenotes_editor.PNG">
-      <img src="/assets/images/docs/fr/introduction/visual_pacenotes_editor.PNG" style="display: block; margin: 0 auto; max-width: 80%;" alt="Editeur de notes visuelles" />
+    <a data-gallery href="/assets/images/docs/fr/introduction/visual_pacenotes_editor.png">
+      <img src="/assets/images/docs/fr/introduction/visual_pacenotes_editor.png" style="display: block; margin: 0 auto; max-width: 80%;" alt="Editeur de notes visuelles" />
     </a>
   </figure>
 </div>
 
 {% include image.html
-   src="/assets/images/docs/fr/introduction/visual_pacenotes_editor.PNG"
+   src="/assets/images/docs/fr/configuration_window/visual_pacenotes_editor/combobox.png"
    alt="Editeur de notes visuelles"
    max_width="80%" %}
 
@@ -141,7 +141,7 @@ Personnalisez comment chaque appel est représenté sur la carte et en jeu — y
 Testez et calibrez votre configuration à l’aide des données de rotation du volant en temps réel issues du simulateur.
 
 {% include image.html
-   src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG"
+   src="/assets/images/docs/fr/calibration_window/calibration_tool.png"
    alt="Outil de calibration"
    max_width="50%" %}
 

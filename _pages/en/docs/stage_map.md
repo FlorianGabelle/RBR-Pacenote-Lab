@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 70
-cover: /assets/images/docs/en/stage_map/map_view.PNG
+cover: /assets/images/docs/en/main_window/stage_map.png
 sidebar:
   nav: docs-en
 ---
@@ -16,7 +16,7 @@ The **stage map** is the primary tool for evaluating the quality of your pacenot
 It gives you a clear, accurate visual of the data and how it maps to the stage.
 
 {% include image.html
-   src="/assets/images/docs/en/stage_map/map_view.PNG"
+   src="/assets/images/docs/en/main_window/stage_map.png"
    alt="Map View"
    max_width="100%" %}
 

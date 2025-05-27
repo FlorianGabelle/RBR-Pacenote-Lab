@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 110
-cover: /assets/images/docs/fr/minimum_corner_length/setting.PNG
+cover: /assets/images/docs/fr/main_window/minimum_corner_length.png
 sidebar:
   nav: docs-fr
 ---
@@ -21,7 +21,7 @@ Ces détections brèves peuvent être dues à :
 Ajuster cette valeur permet de réduire les faux positifs et d’améliorer la clarté des notes.
 
 {% include image.html
-   src="/assets/images/docs/fr/minimum_corner_length/setting.PNG"
+   src="/assets/images/docs/fr/main_window/minimum_corner_length.png"
    alt="Longueur minimale des virages"
    max_width="100%" %}
 

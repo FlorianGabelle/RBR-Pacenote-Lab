@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 110
-cover: /assets/images/docs/en/minimum_corner_length/setting.PNG
+cover: /assets/images/docs/en/main_window/minimum_corner_length.png
 sidebar:
   nav: docs-en
 ---
@@ -21,7 +21,7 @@ These brief detections can be caused by:
 Adjusting this value helps remove false positives and improve the clarity of your pacenotes.
 
 {% include image.html
-   src="/assets/images/docs/en/minimum_corner_length/setting.PNG"
+   src="/assets/images/docs/en/main_window/minimum_corner_length.png"
    alt="Minimum Corner Length Setting"
    max_width="100%" %}
 

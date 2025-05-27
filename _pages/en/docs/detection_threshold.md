@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 100
-cover: /assets/images/docs/en/detection_threshold/setting.PNG
+cover: /assets/images/docs/en/main_window/detection_threshold.png
 sidebar:
   nav: docs-en
 ---
@@ -19,7 +19,7 @@ The detection threshold is a key analysis parameter. It affects several aspects 
 - Distances between corners (and therefore corner linking)
 
 {% include image.html
-   src="/assets/images/docs/en/detection_threshold/setting.PNG"
+   src="/assets/images/docs/en/main_window/detection_threshold.png"
    alt="Detection Threshold Settingl"
    max_width="100%" %}
 

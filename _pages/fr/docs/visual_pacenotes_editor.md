@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 140
-cover: /assets/images/docs/fr/visual_pacenotes_editor/default.PNG
+cover: /assets/images/docs/fr/configuration_window/visual_pacenotes_editor/default.png
 sidebar:
   nav: docs-fr
 ---
@@ -17,7 +17,7 @@ Vous pouvez sélectionner un **package de pacenotes** via le menu déroulant **P
 
 
 {% include image.html
-   src="/assets/images/docs/fr/visual_pacenotes_editor/default.PNG"
+   src="/assets/images/docs/fr/configuration_window/visual_pacenotes_editor/default.png"
    alt="Éditeur de notes visuelles"
    max_width="80%" %}
 
@@ -35,19 +35,24 @@ Pour modifier ou ajouter une icône :
 > Chaque package doit être enregistré individuellement.
 
 {% include image.html
-   src="/assets/images/docs/fr/visual_pacenotes_editor/combobox.PNG"
+   src="/assets/images/docs/fr/configuration_window/visual_pacenotes_editor/combobox.png"
    alt="Menu déroulant des icônes"
    max_width="80%" %}
 
 ---
 
-⚠️ **Important**
+### ⚠️ Important
 
-Le système d'icônes personnalisées repose sur deux éléments :
+Le système d'icônes mis à jour repose sur deux éléments :
 
-1. Les fichiers de package du copilote modifiés  
-2. Les indicateurs (flags) dans le fichier pacenotes associé à la spéciale
+- Des fichiers de package copilote modifiés  
+- Des indicateurs (flags) dans le fichier de pacenotes de la spéciale  
 
-Pour que les icônes s’affichent correctement en jeu, vous devez :
-- Générer le fichier pacenotes via *RBR Pacenote Lab*, ou  
-- Importer puis réexporter vos fichiers existants via *RBR Roadbook*, après avoir mis à jour les fichiers package avec cet outil
+Pour que vos icônes mises à jour apparaissent en jeu, vous devez :
+
+- Générer le fichier de pacenotes avec **RBR Pacenote Lab**, ou  
+- Importer puis réexporter les fichiers de pacenotes existants via **RBR Roadbook** *après* avoir patché vos fichiers packages avec cet outil  
+- **Alternativement**, vous pouvez utiliser l’**outil de patch intégré** pour régénérer les flags dans vos fichiers de pacenotes. Vous pouvez patcher un fichier unique ou tous les fichiers contenus dans le dossier `Plugins\NGPCarMenu\MyPacenotes`.
+
+> 💡 Il est recommandé de créer une sauvegarde de vos fichiers avant d’effectuer le patch, au cas où vous auriez besoin de revenir en arrière.
+

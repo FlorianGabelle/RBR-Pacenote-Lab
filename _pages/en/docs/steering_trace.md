@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 80
-cover: /assets/images/docs/en/steering_trace/steering_view.PNG
+cover: /assets/images/docs/en/main_window/steering_trace.png
 sidebar:
   nav: docs-en
 ---
@@ -15,7 +15,7 @@ The **steering trace** is a diagnostic tool that visualizes your steering input 
 It can help you assess the quality of your steering input, understand why a corner was detected in a certain way, and identify whether your analysis settings need adjustment.
 
 {% include image.html
-   src="/assets/images/docs/en/steering_trace/steering_view.PNG"
+   src="/assets/images/docs/en/main_window/steering_trace.png"
    alt="Steering View"
    max_width="100%" %}
 

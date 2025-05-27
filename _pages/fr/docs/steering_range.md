@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 90
-cover: /assets/images/docs/fr/steering_range/setting.PNG
+cover: /assets/images/docs/fr/main_window/steering_range.png
 sidebar:
   nav: docs-fr
 ---
@@ -19,7 +19,7 @@ L’objectif est simple :
 Cette correspondance 1:1 permet des mesures précises et reproductibles — essentielles pour générer des notes cohérentes.
 
 {% include image.html
-   src="/assets/images/docs/fr/steering_range/setting.PNG"
+   src="/assets/images/docs/fr/main_window/steering_range.png"
    alt="Plage de rotation"
    max_width="100%" %}
 
@@ -36,3 +36,10 @@ Si vous avez un doute ou souhaitez vérifier votre configuration, utilisez l’o
 
 
 Pour plus de détails, consultez la page [Outil de calibration]({{ "/fr/docs/calibration_tool/" | relative_url }}).
+
+---
+
+### ⚠️ Important
+
+Si vous remplacez la valeur par défaut de NGP par une valeur de plage de rotation plus faible, ou si vous définissez une valeur inférieure à celle prévue pour le véhicule dans les réglages de votre base de volant, cela affectera l’échelle des mesures. Étant donné que le volant devra être tourné moins pour atteindre le même angle en jeu, les valeurs de télémétrie seront proportionnellement plus faibles. Cela réduit la granularité des données, c’est-à-dire qu’il y aura moins de valeurs distinctes enregistrées sur toute la plage de rotation.
+Cela n’affecte pas la précision ni la cohérence des mesures, mais diminue le niveau de détail. Il est donc recommandé de conserver les valeurs par défaut de NGP lors des reconnaissances pour préserver la résolution des mesures.

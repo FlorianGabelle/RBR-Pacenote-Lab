@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 130
-cover: /assets/images/docs/en/calibration_tool/calibration_tool.PNG
+cover: /assets/images/docs/en/calibration_window/calibration_tool.png
 sidebar:
   nav: docs-en
 ---
@@ -26,7 +26,7 @@ By reading live steering data from the UDP telemetry stream, the tool compares y
 5. Click the **Compute** button.
 
 {% include image.html
-   src="/assets/images/docs/en/calibration_tool/calibration_tool.PNG"
+   src="/assets/images/docs/en/calibration_window/calibration_tool.png"
    alt="Calibration Tool"
    max_width="50%" %}
 

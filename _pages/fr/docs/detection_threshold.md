@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 100
-cover: /assets/images/docs/fr/detection_threshold/setting.PNG
+cover: /assets/images/docs/fr/main_window/detection_threshold.png
 sidebar:
   nav: docs-fr
 ---
@@ -19,7 +19,7 @@ Le **seuil de détection** est un paramètre clé de l’analyse. Il influence p
 - Calcul des distances entre virages (et donc la détection des enchaînements)
 
 {% include image.html
-   src="/assets/images/docs/fr/detection_threshold/setting.PNG"
+   src="/assets/images/docs/fr/main_window/detection_threshold.png"
    alt="Seuil de détection"
    max_width="100%" %}
 

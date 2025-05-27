@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 120
-cover: /assets/images/docs/fr/pacenote_offset/setting.PNG
+cover: /assets/images/docs/fr/main_window/pacenote_offset.png
 sidebar:
   nav: docs-fr
 ---
@@ -20,7 +20,7 @@ La valeur est exprimée en mètres :
 - Une **valeur positive** la retarde (elle est placée plus loin dans le virage)
 
 {% include image.html
-   src="/assets/images/docs/fr/pacenote_offset/setting.PNG"
+   src="/assets/images/docs/fr/main_window/pacenote_offset.png"
    alt="Avance/retard des notes"
    max_width="100%" %}
 

@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 150
-cover: /assets/images/docs/en/pacenote_file_export/rsf_my_pacenotes.PNG
+cover: /assets/images/docs/en/rsf_window/my_pacenotes.png
 sidebar:
   nav: docs-en
 ---
@@ -40,7 +40,7 @@ This final step adds information that can’t be derived from telemetry but impr
 After generating and editing your pacenotes, make sure to select the correct file in **RSF Launcher** for the stage you completed your recce on.
 
 {% include image.html
-   src="/assets/images/docs/en/pacenote_file_export/rsf_my_pacenotes.PNG"
+   src="/assets/images/docs/en/rsf_window/my_pacenotes.png"
    alt="RSF My Pacenotes"
    max_width="100%" %}
 

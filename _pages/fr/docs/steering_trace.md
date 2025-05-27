@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 80
-cover: /assets/images/docs/fr/steering_trace/steering_view.PNG
+cover: /assets/images/docs/fr/main_window/steering_trace.png
 sidebar:
   nav: docs-fr
 ---
@@ -17,7 +17,7 @@ Bien qu’elle puisse paraître complexe au début — notamment si vous débute
 Elle permet d’évaluer la qualité de votre conduite, de comprendre pourquoi un virage a été détecté d’une certaine façon, et d’ajuster vos paramètres d’analyse si nécessaire.
 
 {% include image.html
-   src="/assets/images/docs/fr/steering_trace/steering_view.PNG"
+   src="/assets/images/docs/fr/main_window/steering_trace.png"
    alt="Courbe du volant"
    max_width="100%" %}
 

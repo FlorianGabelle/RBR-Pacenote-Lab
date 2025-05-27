@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 130
-cover: /assets/images/docs/fr/calibration_tool/calibration_tool.PNG
+cover: /assets/images/docs/fr/calibration_window/calibration_tool.png
 sidebar:
   nav: docs-fr
 ---
@@ -26,7 +26,7 @@ En lisant les données du volant en temps réel via le flux de télémétrie UDP
 5. Cliquez sur le bouton **Calculer**.
 
 {% include image.html
-   src="/assets/images/docs/fr/calibration_tool/calibration_tool.PNG"
+   src="/assets/images/docs/fr/calibration_window/calibration_tool.png"
    alt="Outil de calibration"
    max_width="50%" %}
 

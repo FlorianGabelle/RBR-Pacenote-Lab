@@ -6,7 +6,7 @@ show_date: false
 lang: fr
 type: doc
 order: 70
-cover: /assets/images/docs/fr/stage_map/map_view.PNG
+cover: /assets/images/docs/fr/main_window/stage_map.png
 sidebar:
   nav: docs-fr
 ---
@@ -16,7 +16,7 @@ La **carte de la spéciale** est l’outil principal pour évaluer la qualité d
 Elle offre une vue claire et précise des données, et de leur correspondance avec le tracé réel de la spéciale.
 
 {% include image.html
-   src="/assets/images/docs/fr/stage_map/map_view.PNG"
+   src="/assets/images/docs/fr/main_window/stage_map.png"
    alt="Carte de la spéciale"
    max_width="100%" %}
 

@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 60
-cover: /assets/images/docs/en/links_and_distances/settings.PNG
+cover: /assets/images/docs/en/configuration_window/links_and_distances.png
 sidebar:
   nav: docs-en
 ---
@@ -17,7 +17,7 @@ This section allows you to configure two key features:
 - Distance callouts
 
 {% include image.html
-   src="/assets/images/docs/en/links_and_distances/settings.PNG"
+   src="/assets/images/docs/en/configuration_window/links_and_distances.png"
    alt="Links and Distances Settings"
    max_width="80%" %}
 

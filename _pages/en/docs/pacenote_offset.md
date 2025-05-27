@@ -6,7 +6,7 @@ show_date: false
 lang: en
 type: doc
 order: 120
-cover: /assets/images/docs/en/pacenote_offset/setting.PNG
+cover: /assets/images/docs/en/main_window/pacenote_offset.png
 sidebar:
   nav: docs-en
 ---
@@ -20,7 +20,7 @@ The offset is a distance value in meters:
 - A **positive value** places it further into the corner
 
 {% include image.html
-   src="/assets/images/docs/en/pacenote_offset/setting.PNG"
+   src="/assets/images/docs/en/main_window/pacenote_offset.png"
    alt="Pacenote Offset Setting"
    max_width="100%" %}
 
