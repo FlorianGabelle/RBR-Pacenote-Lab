@@ -12,11 +12,10 @@ show_date: false
     alt="Banner"
     max_width="100%" %}
   <p>
-    Version 1.0.0 — 2025-05-13<br>
+    Version 1.0.1<br>
     Windows 10+ (64-bit)
   </p>
-  <a class="button-custom" href="https://drive.google.com/file/d/1YC1bGsMw5jN-HohKLE1Fj5stQ5RsRzLM/view?usp=sharing">📥 Download 📥</a><br>
-  <a class="button-custom" href="https://www.virustotal.com/gui/file/97f67c9043cee9cbc3b2657c48b206a7df8307bd93951b3251b4d485972d6c09?nocache=1">🛡️ VirusTotal Report 🛡️</a>
+  <a class="button-custom" href="https://drive.google.com/file/d/1SmprnFqfMoreDCY80wjeE_o2BV07ne23/view?usp=drive_link">📥 Download 📥</a><br>
   <hr>
   <div id="support-this-project"></div>
     <h2 style="margin-top: 0">🙏 Support this project</h2>
