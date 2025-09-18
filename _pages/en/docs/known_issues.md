@@ -4,7 +4,6 @@ title: "Known Issues"
 excerpt: "Important Information"
 show_date: false
 lang: en
-type: doc
 order: 11
 cover: /assets/images/warning.png
 sidebar:

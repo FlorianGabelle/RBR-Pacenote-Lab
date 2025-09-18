@@ -4,7 +4,6 @@ title: "Problèmes connus"
 excerpt: "Informations importantes"
 show_date: false
 lang: fr
-type: doc
 order: 11
 cover: /assets/images/warning.png
 sidebar:
