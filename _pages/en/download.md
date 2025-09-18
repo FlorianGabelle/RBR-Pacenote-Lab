@@ -15,7 +15,7 @@ show_date: false
     Version 1.0.1<br>
     Windows 10+ (64-bit)
   </p>
-  <a class="button-custom" href="https://drive.google.com/file/d/1SmprnFqfMoreDCY80wjeE_o2BV07ne23/view?usp=drive_link">📥 Download 📥</a><br>
+  <a class="button-custom" href="https://www.dropbox.com/scl/fi/b22gl9o5jyuiz7d73b66b/RBR_Pacenote_Lab_Installer_v1.0.1.zip?rlkey=yo3bqgd4d4y504f2g0gsw1fgx&st=poz1vw9g&dl=0">📥 Download 📥</a><br>
   <hr>
   <div id="support-this-project"></div>
     <h2 style="margin-top: 0">🙏 Support this project</h2>
